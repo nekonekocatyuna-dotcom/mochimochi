@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-01",
+  "command": "PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium npm test",
+  "stats": {
+    "startTime": "2026-11-01T10:12:09.165Z",
+    "duration": 38894.221,
+    "expected": 20,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}
