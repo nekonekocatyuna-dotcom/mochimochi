@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "pdf-ch1-q1",
+    "chapter": 1,
+    "number": 1,
+    "topic": "Operations management",
+    "question": "What is the central responsibility of operations management?",
+    "answer": "Managing processes that create goods and services",
+    "distractors": [
+      "Selling financial securities",
+      "Setting tax policy",
+      "Advertising without managing production"
+    ],
+    "explanation": "作業管理の中心は、財やサービスを生み出す工程の設計・運営です。販売や財務だけを指す言葉ではありません。",
+    "sourcePage": 3,
+    "sourceAnchor": "operations management"
+  },
+  {
+    "id": "pdf-ch1-q2",
+    "chapter": 1,
+    "number": 2,
+    "topic": "Supply chains",
+    "question": "Which description best represents a supply chain?",
+    "answer": "A sequence of organizations and activities connecting suppliers to final customers",
+    "distractors": [
+      "Only the production machines inside one factory",
+      "Only a company's advertising channels",
+      "A list of employee salaries"
+    ],
+    "explanation": "供給鏈は原材料の供給から最終顧客までの組織・活動の連なりです。自社内だけに範囲を限定しないことが重要です。",
+    "sourcePage": 3,
+    "sourceAnchor": "supply chain"
+  },
+  {
+    "id": "pdf-ch1-q3",
+    "chapter": 1,
+    "number": 3,
+    "topic": "Business functions",
+    "question": "Which set contains the three basic business functions?",
+    "answer": "Operations, marketing, and finance",
+    "distractors": [
+      "Research, auditing, and taxation",
+      "Purchasing, shipping, and inspection only",
+      "Advertising, recruitment, and maintenance"
+    ],
+    "explanation": "教材では主要機能を作業・マーケティング・財務の3つと整理しています。各部門が情報を共有して需要と供給を調整します。",
+    "sourcePage": 4,
+    "sourceAnchor": "three basic functions"
+  },
+  {
+    "id": "pdf-ch1-q4",
+    "chapter": 1,
+    "number": 4,
+    "topic": "Transformation",
+    "question": "A bakery turns flour and labor into bread. What does baking represent?",
+    "answer": "The transformation process",
+    "distractors": [
+      "A financial output",
+      "A demand forecast",
+      "A supplier contract"
+    ],
+    "explanation": "投入した材料や労働をパンという産出に変える部分が変換工程です。投入・工程・産出を区別しましょう。",
+    "sourcePage": 5,
+    "sourceAnchor": "transformation process"
+  },
+  {
+    "id": "pdf-ch1-q5",
+    "chapter": 1,
+    "number": 5,
+    "topic": "Inputs",
+    "question": "Which item is an input to a hospital's service process?",
+    "answer": "The time and skills of medical staff",
+    "distractors": [
+      "The patient's improved health after treatment",
+      "A completed treatment outcome",
+      "The final service delivered to a patient"
+    ],
+    "explanation": "医療従事者の時間と技能はサービスを提供するための投入です。治療後の成果や提供済みサービスは産出側に当たります。",
+    "sourcePage": 7,
+    "sourceAnchor": "inputs"
+  },
+  {
+    "id": "pdf-ch1-q6",
+    "chapter": 1,
+    "number": 6,
+    "topic": "Feedback and control",
+    "question": "A manager compares actual output with a standard and adjusts the process. What is this an example of?",
+    "answer": "Feedback and control",
+    "distractors": [
+      "Outsourcing ownership",
+      "Eliminating all variation",
+      "Product advertising"
+    ],
+    "explanation": "実際の成果を測定して基準と比較し、必要な修正を行うのがフィードバックと管理です。測るだけでなく修正につなげます。",
+    "sourcePage": 5,
+    "sourceAnchor": "feedback"
+  },
+  {
+    "id": "pdf-ch1-q7",
+    "chapter": 1,
+    "number": 7,
+    "topic": "Value added",
+    "question": "What does value added describe?",
+    "answer": "The value created by transforming inputs into useful outputs",
+    "distractors": [
+      "The total number of employees hired",
+      "The amount borrowed from a bank",
+      "The number of advertisements purchased"
+    ],
+    "explanation": "付加価値は投入から産出への変換によって生まれる価値です。借入額や広告件数そのものではありません。",
+    "sourcePage": 6,
+    "sourceAnchor": "value-added"
+  },
+  {
+    "id": "pdf-ch1-q8",
+    "chapter": 1,
+    "number": 8,
+    "topic": "Goods and services",
+    "question": "Which characteristic most clearly distinguishes a physical good from a typical service?",
+    "answer": "A good is tangible",
+    "distractors": [
+      "A good never requires quality management",
+      "A good has no transformation process",
+      "A good cannot be transported"
+    ],
+    "explanation": "有形性は財とサービスを比較する基本軸です。ただし両者とも品質や工程の管理が必要です。",
+    "sourcePage": 8,
+    "sourceAnchor": "tangible"
+  },
+  {
+    "id": "pdf-ch1-q9",
+    "chapter": 1,
+    "number": 9,
+    "topic": "Service inventory",
+    "question": "Why is an unused appointment slot difficult to recover as inventory?",
+    "answer": "Service capacity often cannot be stored for later sale",
+    "distractors": [
+      "Service capacity always increases overnight",
+      "Services have no customers",
+      "Services never require scheduling"
+    ],
+    "explanation": "使われなかった時間帯のサービス能力は、完成品のように在庫として保存しにくい性質があります。需要と提供時点の調整が重要です。",
+    "sourcePage": 9,
+    "sourceAnchor": "inventory"
+  },
+  {
+    "id": "pdf-ch1-q10",
+    "chapter": 1,
+    "number": 10,
+    "topic": "Customer contact",
+    "question": "Compared with many manufacturing operations, service operations often have more of what?",
+    "answer": "Direct customer contact",
+    "distractors": [
+      "Finished-goods inventory",
+      "Distance from customers during delivery",
+      "Identical customer inputs"
+    ],
+    "explanation": "サービスは顧客が提供工程に直接関与することが多く、顧客接触や入力のばらつきを考慮する必要があります。",
+    "sourcePage": 8,
+    "sourceAnchor": "customer contact"
+  },
+  {
+    "id": "pdf-ch1-q11",
+    "chapter": 1,
+    "number": 11,
+    "topic": "Goods-service combinations",
+    "question": "A restaurant provides meals and table service. What does this illustrate?",
+    "answer": "Many offerings combine goods and services",
+    "distractors": [
+      "Every offering is entirely a good or entirely a service",
+      "Services cannot accompany goods",
+      "Manufacturing and services use unrelated resources"
+    ],
+    "explanation": "実際の提供物には財とサービスが組み合わさるものが多くあります。飲食店は料理という財と接客というサービスを同時に提供します。",
+    "sourcePage": 6,
+    "sourceAnchor": "goods and services"
+  },
+  {
+    "id": "pdf-ch1-q12",
+    "chapter": 1,
+    "number": 12,
+    "topic": "Process management",
+    "question": "Why should managers examine how activities are linked in a process?",
+    "answer": "The performance of connected activities affects the overall outcome",
+    "distractors": [
+      "Each activity can be optimized without affecting any other activity",
+      "Only the final advertisement determines output",
+      "Processes exist only in manufacturing"
+    ],
+    "explanation": "工程は活動のつながりです。個別の作業だけでなく、それらが全体の成果にどう影響するかを見る必要があります。",
+    "sourcePage": 14,
+    "sourceAnchor": "process"
+  },
+  {
+    "id": "pdf-ch1-q13",
+    "chapter": 1,
+    "number": 13,
+    "topic": "Lead time",
+    "question": "What is lead time in fulfilling a customer order?",
+    "answer": "The time between ordering and receiving a good or service",
+    "distractors": [
+      "The time an employee spends on vacation",
+      "The length of the accounting year",
+      "The time before a business is legally registered"
+    ],
+    "explanation": "リードタイムは注文から財・サービスを受け取るまでの時間です。納期を現実的に約束するためにも部門間で共有します。",
+    "sourcePage": 11,
+    "sourceAnchor": "lead time"
+  },
+  {
+    "id": "pdf-ch1-q14",
+    "chapter": 1,
+    "number": 14,
+    "topic": "Demand and supply",
+    "question": "Why is matching supply with demand important?",
+    "answer": "It reduces the risk of both shortages and excess inventory",
+    "distractors": [
+      "It guarantees that demand never changes",
+      "It eliminates the need for finance",
+      "It requires production to exceed demand at all times"
+    ],
+    "explanation": "供給不足は欠品や機会損失を生み、供給過剰は在庫や費用を増やします。両側のリスクを調整することが目的です。",
+    "sourcePage": 3,
+    "sourceAnchor": "supply and demand"
+  },
+  {
+    "id": "pdf-ch1-q15",
+    "chapter": 1,
+    "number": 15,
+    "topic": "Design and operation",
+    "question": "Which decision is primarily a system-design decision?",
+    "answer": "Choosing the location and capacity of a new facility",
+    "distractors": [
+      "Assigning today's lunch break",
+      "Correcting a single invoice",
+      "Selecting the next customer in a queue"
+    ],
+    "explanation": "立地や設備能力は長期に影響するシステム設計の意思決定です。日々の運用上の調整とは時間範囲が異なります。",
+    "sourcePage": 16,
+    "sourceAnchor": "system design"
+  },
+  {
+    "id": "pdf-ch1-q16",
+    "chapter": 1,
+    "number": 16,
+    "topic": "Models",
+    "question": "Why do managers use models?",
+    "answer": "To simplify reality so alternatives can be analyzed",
+    "distractors": [
+      "To reproduce every detail of reality without omissions",
+      "To avoid making decisions",
+      "To replace all managerial judgment automatically"
+    ],
+    "explanation": "モデルは現実を単純化して重要な関係を分析するための道具です。すべての要素を再現することや判断をなくすことが目的ではありません。",
+    "sourcePage": 18,
+    "sourceAnchor": "models"
+  },
+  {
+    "id": "pdf-ch1-q17",
+    "chapter": 1,
+    "number": 17,
+    "topic": "Trade-offs",
+    "question": "Choosing faster delivery at a higher cost is an example of what?",
+    "answer": "A trade-off",
+    "distractors": [
+      "A cost-free improvement in every dimension",
+      "A random sample",
+      "A legal requirement"
+    ],
+    "explanation": "トレードオフは一つの利点を得るために別の面を犠牲にする関係です。速度と費用の両方を比較して意思決定します。",
+    "sourcePage": 18,
+    "sourceAnchor": "trade-offs"
+  },
+  {
+    "id": "pdf-ch1-q18",
+    "chapter": 1,
+    "number": 18,
+    "topic": "Systems perspective",
+    "question": "What is the main purpose of a systems perspective?",
+    "answer": "Considering how parts interact to affect the whole organization",
+    "distractors": [
+      "Maximizing each department's output without coordination",
+      "Ignoring suppliers and customers",
+      "Replacing all departments with marketing"
+    ],
+    "explanation": "システムの視点では部分間の相互作用と全体最適を考えます。一部門だけの改善が必ずしも全体改善になるとは限りません。",
+    "sourcePage": 20,
+    "sourceAnchor": "systems approach"
+  },
+  {
+    "id": "pdf-ch1-q19",
+    "chapter": 1,
+    "number": 19,
+    "topic": "Priorities",
+    "question": "What does the Pareto phenomenon suggest for managerial attention?",
+    "answer": "A relatively small number of factors may account for a large share of effects",
+    "distractors": [
+      "All factors always have exactly equal effects",
+      "The least important factor should always be addressed first",
+      "Every problem must be solved simultaneously"
+    ],
+    "explanation": "パレートの考え方では少数の重要要因が結果の大部分に関わることがあります。影響の大きい課題に優先順位を付けます。",
+    "sourcePage": 21,
+    "sourceAnchor": "Pareto"
+  },
+  {
+    "id": "pdf-ch1-q20",
+    "chapter": 1,
+    "number": 20,
+    "topic": "Customization",
+    "question": "Greater customization generally increases the need for what?",
+    "answer": "Flexible processes and appropriate employee skills",
+    "distractors": [
+      "A single unchangeable specification for every customer",
+      "Eliminating customer information",
+      "Avoiding all process decisions"
+    ],
+    "explanation": "個別要求が増えると、工程の柔軟性と対応できる技能が必要になります。標準化や自動化のしやすさも変化します。",
+    "sourcePage": 20,
+    "sourceAnchor": "customization"
+  },
+  {
+    "id": "pdf-ch1-q21",
+    "chapter": 1,
+    "number": 21,
+    "topic": "Scientific management",
+    "question": "Which approach studies work systematically to improve methods?",
+    "answer": "Scientific management",
+    "distractors": [
+      "Unstructured guessing",
+      "Demand suppression",
+      "Financial speculation"
+    ],
+    "explanation": "科学的管理法は作業を観察・測定し、方法を体系的に改善する考え方です。勘だけで管理する方法とは異なります。",
+    "sourcePage": 22,
+    "sourceAnchor": "scientific management"
+  },
+  {
+    "id": "pdf-ch1-q22",
+    "chapter": 1,
+    "number": 22,
+    "topic": "Interchangeable parts",
+    "question": "What is the main feature of interchangeable parts?",
+    "answer": "Standardized components can replace equivalent components",
+    "distractors": [
+      "Every component has a unique incompatible shape",
+      "Each component must be redesigned for every repair",
+      "Only one worker may handle all components"
+    ],
+    "explanation": "互換部品は同じ規格の部品を交換して使えることが特徴です。修理や大量生産を容易にします。",
+    "sourcePage": 23,
+    "sourceAnchor": "interchangeable parts"
+  },
+  {
+    "id": "pdf-ch1-q23",
+    "chapter": 1,
+    "number": 23,
+    "topic": "Division of labor",
+    "question": "What does division of labor involve?",
+    "answer": "Breaking work into specialized tasks",
+    "distractors": [
+      "Requiring every worker to do every task equally",
+      "Combining all firms into one department",
+      "Removing all skill requirements"
+    ],
+    "explanation": "分業は仕事を専門化した作業に分けることです。互換部品や単なる人数増加と混同しないようにします。",
+    "sourcePage": 23,
+    "sourceAnchor": "division of labor"
+  },
+  {
+    "id": "pdf-ch1-q24",
+    "chapter": 1,
+    "number": 24,
+    "topic": "Mass production",
+    "question": "Which combination best describes mass production?",
+    "answer": "High volume and standardized products",
+    "distractors": [
+      "Low volume and unique handcrafted products only",
+      "No specialized equipment and no repetition",
+      "Production without any scheduling"
+    ],
+    "explanation": "大量生産は高い数量と標準化を特徴とします。少量・高技能・個別対応を重視するクラフト生産と区別します。",
+    "sourcePage": 22,
+    "sourceAnchor": "mass production"
+  },
+  {
+    "id": "pdf-ch1-q25",
+    "chapter": 1,
+    "number": 25,
+    "topic": "Lean production",
+    "question": "What is a central aim of lean production?",
+    "answer": "Reducing waste while improving quality and flow",
+    "distractors": [
+      "Increasing avoidable inventory and delays",
+      "Eliminating improvement activities",
+      "Producing defects as quickly as possible"
+    ],
+    "explanation": "リーン生産は無駄の削減と品質・流れの改善を重視します。単に作業速度や生産量だけを上げる考え方ではありません。",
+    "sourcePage": 27,
+    "sourceAnchor": "lean production"
+  },
+  {
+    "id": "pdf-ch1-q26",
+    "chapter": 1,
+    "number": 26,
+    "topic": "Agility",
+    "question": "An organization rapidly changes its operations when customer needs change. Which capability is illustrated?",
+    "answer": "Agility",
+    "distractors": [
+      "Inflexibility",
+      "Permanent overcapacity",
+      "Identical demand"
+    ],
+    "explanation": "アジリティは変化する状況に素早く適応する能力です。固定された工程を変えないこととは逆の考え方です。",
+    "sourcePage": 26,
+    "sourceAnchor": "agility"
+  },
+  {
+    "id": "pdf-ch1-q27",
+    "chapter": 1,
+    "number": 27,
+    "topic": "Variation",
+    "question": "Which type of variation is inherently unpredictable in its individual occurrences?",
+    "answer": "Random variation",
+    "distractors": [
+      "A planned weekly schedule",
+      "A known seasonal pattern",
+      "A deliberately chosen product specification"
+    ],
+    "explanation": "ランダム変動は個々の発生を正確には予測しにくい変動です。既知の季節性などの構造的な変動と区別します。",
+    "sourcePage": 14,
+    "sourceAnchor": "random variation"
+  },
+  {
+    "id": "pdf-ch1-q28",
+    "chapter": 1,
+    "number": 28,
+    "topic": "Outsourcing",
+    "question": "What does outsourcing mean?",
+    "answer": "Having an external organization perform work previously or potentially done internally",
+    "distractors": [
+      "Performing every activity inside the firm",
+      "Selling only to employees",
+      "Eliminating all supplier relationships"
+    ],
+    "explanation": "アウトソーシングは社内で行う業務を外部に委ねることです。専門能力や費用の利点と、品質・納期などの管理上のリスクを比較します。",
+    "sourcePage": 32,
+    "sourceAnchor": "outsourcing"
+  },
+  {
+    "id": "pdf-ch1-q29",
+    "chapter": 1,
+    "number": 29,
+    "topic": "Sustainability",
+    "question": "Which action is most consistent with sustainability?",
+    "answer": "Using resources while considering ecological effects on future generations",
+    "distractors": [
+      "Maximizing current output while ignoring future resources",
+      "Treating waste disposal as unrelated to operations",
+      "Ignoring supply-chain environmental effects"
+    ],
+    "explanation": "持続可能性では現在の利用だけでなく、将来世代を支える生態系への影響も考えます。設計・調達・工程・廃棄に関係します。",
+    "sourcePage": 28,
+    "sourceAnchor": "sustainability"
+  },
+  {
+    "id": "pdf-ch1-q30",
+    "chapter": 1,
+    "number": 30,
+    "topic": "Ethics",
+    "question": "Why should operations decisions include ethical considerations?",
+    "answer": "Decisions affect stakeholders beyond short-term financial results",
+    "distractors": [
+      "Only legal penalties matter in every decision",
+      "Ethics applies only to marketing",
+      "A profitable decision cannot harm any stakeholder"
+    ],
+    "explanation": "作業管理の決定は顧客、従業員、供給者、地域社会などに影響します。短期的な利益だけでなく倫理的な影響を評価します。",
+    "sourcePage": 29,
+    "sourceAnchor": "ethical"
+  },
+  {
+    "id": "pdf-ch2-q1",
+    "chapter": 2,
+    "number": 1,
+    "topic": "Competitiveness",
+    "question": "What does competitiveness concern?",
+    "answer": "How effectively an organization meets customer needs relative to rivals",
+    "distractors": [
+      "Only the number of employees it has",
+      "Only its legal form",
+      "Its ability to avoid customer feedback"
+    ],
+    "explanation": "競争力は顧客の要求を競合と比べてどれだけ満たせるかに関わります。企業の規模だけで決まるものではありません。",
+    "sourcePage": 3,
+    "sourceAnchor": "competitiveness"
+  },
+  {
+    "id": "pdf-ch2-q2",
+    "chapter": 2,
+    "number": 2,
+    "topic": "Competitive dimensions",
+    "question": "Which combination contains common competitive dimensions?",
+    "answer": "Price, quality, flexibility, and delivery speed",
+    "distractors": [
+      "Taxes, birthdays, and office colors only",
+      "Ownership records and accounting dates only",
+      "Employee names and product serial numbers"
+    ],
+    "explanation": "価格・品質・柔軟性・納期などが競争の軸です。顧客が何を評価するかに合わせて重点を決めます。",
+    "sourcePage": 3,
+    "sourceAnchor": "price"
+  },
+  {
+    "id": "pdf-ch2-q3",
+    "chapter": 2,
+    "number": 3,
+    "topic": "Mission",
+    "question": "What is an organization's mission?",
+    "answer": "Its reason for existence",
+    "distractors": [
+      "Its daily machine assignment",
+      "Its current inventory count",
+      "Its next payroll date"
+    ],
+    "explanation": "ミッションは組織が存在する理由や目的を示します。具体的な日々の作業や単一の数値指標とは異なります。",
+    "sourcePage": 5,
+    "sourceAnchor": "mission"
+  },
+  {
+    "id": "pdf-ch2-q4",
+    "chapter": 2,
+    "number": 4,
+    "topic": "Strategy",
+    "question": "How does a strategy differ from a tactic?",
+    "answer": "A strategy sets overall direction; a tactic specifies implementation actions",
+    "distractors": [
+      "A strategy is a daily task; a tactic is the overall direction",
+      "A strategy records past sales; a tactic records past costs",
+      "They are unrelated and should be developed separately"
+    ],
+    "explanation": "戦略は目標に向かう大きな方向で、戦術はそれを実行する具体策です。両者の整合が必要です。",
+    "sourcePage": 5,
+    "sourceAnchor": "strategies and tactics"
+  },
+  {
+    "id": "pdf-ch2-q5",
+    "chapter": 2,
+    "number": 5,
+    "topic": "Operations strategy",
+    "question": "Why should operations strategy align with organization strategy?",
+    "answer": "Operations capabilities must support the organization's competitive goals",
+    "distractors": [
+      "Operations has no effect on competitive performance",
+      "Every department must pursue unrelated goals",
+      "Marketing alone can create production capacity"
+    ],
+    "explanation": "作業部門の能力や工程が全社の競争目標を支えなければ、戦略を実現できません。全社戦略と作業戦略を結び付けます。",
+    "sourcePage": 8,
+    "sourceAnchor": "operations strategy"
+  },
+  {
+    "id": "pdf-ch2-q6",
+    "chapter": 2,
+    "number": 6,
+    "topic": "SWOT",
+    "question": "In SWOT analysis, which pair primarily concerns internal conditions?",
+    "answer": "Strengths and weaknesses",
+    "distractors": [
+      "Opportunities and threats",
+      "Interest rates and exchange rates only",
+      "Competitors and legislation only"
+    ],
+    "explanation": "SWOTの強み・弱みは主に内部要因、機会・脅威は外部要因です。分析する対象の位置付けを区別します。",
+    "sourcePage": 9,
+    "sourceAnchor": "SWOT"
+  },
+  {
+    "id": "pdf-ch2-q7",
+    "chapter": 2,
+    "number": 7,
+    "topic": "SWOT application",
+    "question": "A new competitor enters the market. Where does this usually belong in SWOT?",
+    "answer": "Threat",
+    "distractors": [
+      "Strength",
+      "Internal skill",
+      "Mission statement"
+    ],
+    "explanation": "新規競合の参入は外部環境からの脅威として捉えます。自社内部の弱みと同じ項目ではありません。",
+    "sourcePage": 9,
+    "sourceAnchor": "opportunities and threats"
+  },
+  {
+    "id": "pdf-ch2-q8",
+    "chapter": 2,
+    "number": 8,
+    "topic": "Order qualifiers",
+    "question": "What is an order qualifier?",
+    "answer": "A minimum requirement to be considered for purchase",
+    "distractors": [
+      "The factor that always guarantees final selection",
+      "A measure of total employee hours",
+      "A rule for paying suppliers"
+    ],
+    "explanation": "注文獲得の前提条件がOrder Qualifierです。候補に入る条件であり、最終的な選択の決め手とは区別します。",
+    "sourcePage": 9,
+    "sourceAnchor": "order qualifiers"
+  },
+  {
+    "id": "pdf-ch2-q9",
+    "chapter": 2,
+    "number": 9,
+    "topic": "Order winners",
+    "question": "Two suppliers meet all minimum requirements. One is selected for faster delivery. What is faster delivery in this case?",
+    "answer": "An order winner",
+    "distractors": [
+      "A fixed cost",
+      "An internal weakness by definition",
+      "A random forecast error"
+    ],
+    "explanation": "最低条件を満たした候補の中から実際に選ばれる決め手がOrder Winnerです。この例では納期が決め手です。",
+    "sourcePage": 9,
+    "sourceAnchor": "order winners"
+  },
+  {
+    "id": "pdf-ch2-q10",
+    "chapter": 2,
+    "number": 10,
+    "topic": "Strategic change",
+    "question": "Why must firms reassess order qualifiers and order winners over time?",
+    "answer": "Customer expectations and competitive standards can change",
+    "distractors": [
+      "A winning feature remains unique forever",
+      "Minimum requirements never change",
+      "All customers always choose by price alone"
+    ],
+    "explanation": "顧客の期待や競争水準が変わると、以前の差別化要因が当然の条件になることがあります。継続的な見直しが必要です。",
+    "sourcePage": 9,
+    "sourceAnchor": "order winners"
+  },
+  {
+    "id": "pdf-ch2-q11",
+    "chapter": 2,
+    "number": 11,
+    "topic": "Core competencies",
+    "question": "What is a core competency?",
+    "answer": "A special capability that gives an organization a competitive advantage",
+    "distractors": [
+      "Any routine activity shared equally by every competitor",
+      "A temporary increase in office supplies",
+      "A list of all products sold"
+    ],
+    "explanation": "コア・コンピタンスは競争優位につながる中核的な能力です。単に業務の一覧や日常的な作業を指すわけではありません。",
+    "sourcePage": 8,
+    "sourceAnchor": "core competencies"
+  },
+  {
+    "id": "pdf-ch2-q12",
+    "chapter": 2,
+    "number": 12,
+    "topic": "Time-based strategies",
+    "question": "Which action best illustrates a time-based strategy?",
+    "answer": "Reducing order-processing and delivery lead times",
+    "distractors": [
+      "Increasing customer waiting time intentionally",
+      "Ignoring product-development speed",
+      "Measuring only annual profit"
+    ],
+    "explanation": "時間基準戦略は開発・処理・配送などの時間短縮を競争力にします。単なる利益測定とは異なります。",
+    "sourcePage": 15,
+    "sourceAnchor": "time-based"
+  },
+  {
+    "id": "pdf-ch2-q13",
+    "chapter": 2,
+    "number": 13,
+    "topic": "Quality-based strategies",
+    "question": "Which action best illustrates a quality-based strategy?",
+    "answer": "Designing and operating processes to consistently meet customer requirements",
+    "distractors": [
+      "Offering the lowest price regardless of defects",
+      "Reducing inspection while ignoring process quality",
+      "Treating customer complaints as irrelevant"
+    ],
+    "explanation": "品質基準の戦略では顧客要求を安定して満たす設計や工程を重視します。低価格だけを重視する戦略とは区別します。",
+    "sourcePage": 15,
+    "sourceAnchor": "quality-based"
+  },
+  {
+    "id": "pdf-ch2-q14",
+    "chapter": 2,
+    "number": 14,
+    "topic": "Balanced Scorecard",
+    "question": "Which set matches the Balanced Scorecard perspectives?",
+    "answer": "Financial, customer, internal business processes, and learning and growth",
+    "distractors": [
+      "Profit, profit, profit, and profit",
+      "Inventory, payroll, rent, and taxes only",
+      "Advertising channels only"
+    ],
+    "explanation": "BSCは財務だけでなく顧客・内部工程・学習と成長の視点を使い、戦略を具体的な行動や指標に結び付けます。",
+    "sourcePage": 17,
+    "sourceAnchor": "balanced scorecard"
+  },
+  {
+    "id": "pdf-ch2-q15",
+    "chapter": 2,
+    "number": 15,
+    "topic": "Strategy implementation",
+    "question": "Why can financial measures alone be insufficient for managing strategy?",
+    "answer": "They may omit customer, process, and learning drivers of future performance",
+    "distractors": [
+      "Financial data always predict every future result perfectly",
+      "Customer satisfaction cannot affect results",
+      "Internal processes are unrelated to strategy"
+    ],
+    "explanation": "財務指標だけでは将来の成果を生む顧客関係や工程改善、学習を捉えきれません。複数の視点で確認するのがBSCの考え方です。",
+    "sourcePage": 17,
+    "sourceAnchor": "balanced scorecard"
+  },
+  {
+    "id": "pdf-ch2-q16",
+    "chapter": 2,
+    "number": 16,
+    "topic": "Productivity",
+    "question": "Which formula defines productivity?",
+    "answer": "Output divided by input",
+    "distractors": [
+      "Input divided by output",
+      "Revenue minus all expenses",
+      "Fixed cost divided by variable cost"
+    ],
+    "explanation": "生産性は産出を投入で割った比率です。利益や費用の差額とは異なります。",
+    "sourcePage": 18,
+    "sourceAnchor": "productivity"
+  },
+  {
+    "id": "pdf-ch2-q17",
+    "chapter": 2,
+    "number": 17,
+    "topic": "Labor productivity",
+    "question": "A team makes 480 units in 120 labor-hours. What is labor productivity?",
+    "answer": "4 units per labor-hour",
+    "distractors": [
+      "0.25 units per labor-hour",
+      "360 units per labor-hour",
+      "600 units per labor-hour"
+    ],
+    "explanation": "労働生産性は480÷120＝4個／労働時間です。分子と分母を逆にしないようにします。",
+    "sourcePage": 19,
+    "sourceAnchor": "labor productivity"
+  },
+  {
+    "id": "pdf-ch2-q18",
+    "chapter": 2,
+    "number": 18,
+    "topic": "Partial productivity",
+    "question": "Which measure is a partial productivity measure?",
+    "answer": "Units produced per labor-hour",
+    "distractors": [
+      "Output divided by labor, material, and energy costs combined",
+      "Total output divided by all inputs",
+      "Total profit divided by total sales"
+    ],
+    "explanation": "単一の投入に対する産出の比率が部分生産性です。労働時間だけを分母にする指標が例になります。",
+    "sourcePage": 19,
+    "sourceAnchor": "partial productivity"
+  },
+  {
+    "id": "pdf-ch2-q19",
+    "chapter": 2,
+    "number": 19,
+    "topic": "Multifactor productivity",
+    "question": "Which measure is multifactor productivity?",
+    "answer": "Output divided by a combination of selected inputs",
+    "distractors": [
+      "Output divided by labor alone",
+      "Profit divided by sales",
+      "The number of machines without considering output"
+    ],
+    "explanation": "複数の投入をまとめて使うのが多要素生産性です。すべての投入を対象とする総合生産性や単一の部分生産性と区別します。",
+    "sourcePage": 19,
+    "sourceAnchor": "multifactor"
+  },
+  {
+    "id": "pdf-ch2-q20",
+    "chapter": 2,
+    "number": 20,
+    "topic": "Multifactor calculation",
+    "question": "Output is worth $12,000. Labor costs $3,000 and materials cost $1,000. What is productivity using these two inputs?",
+    "answer": "3.0",
+    "distractors": [
+      "4.0",
+      "12.0",
+      "0.333"
+    ],
+    "explanation": "多要素生産性は12,000÷（3,000＋1,000）＝3.0です。異なる投入を金額という共通単位にそろえて合算しています。",
+    "sourcePage": 19,
+    "sourceAnchor": "multifactor"
+  },
+  {
+    "id": "pdf-ch2-q21",
+    "chapter": 2,
+    "number": 21,
+    "topic": "Productivity growth",
+    "question": "Productivity rises from 80 to 88 units per hour. What is the growth rate?",
+    "answer": "10%",
+    "distractors": [
+      "8%",
+      "9.09%",
+      "110%"
+    ],
+    "explanation": "増加率は（88−80）÷80×100＝10％です。基準となる以前の生産性で割ります。",
+    "sourcePage": 19,
+    "sourceAnchor": "productivity growth"
+  },
+  {
+    "id": "pdf-ch2-q22",
+    "chapter": 2,
+    "number": 22,
+    "topic": "Interpreting productivity",
+    "question": "Output stays constant while input decreases. What happens to productivity?",
+    "answer": "It increases",
+    "distractors": [
+      "It decreases",
+      "It must remain unchanged",
+      "It becomes equal to total cost"
+    ],
+    "explanation": "産出が同じで投入が減ると、産出÷投入の値は大きくなります。投入削減だけで品質などを損なっていないかも併せて確認します。",
+    "sourcePage": 19,
+    "sourceAnchor": "productivity measures"
+  },
+  {
+    "id": "pdf-ch2-q23",
+    "chapter": 2,
+    "number": 23,
+    "topic": "Comparability",
+    "question": "Why should units and measurement scope be consistent when comparing productivity?",
+    "answer": "Different definitions can make ratios misleading",
+    "distractors": [
+      "All ratios are comparable regardless of their inputs",
+      "Only the numerator matters",
+      "Currency and time units never affect interpretation"
+    ],
+    "explanation": "比較する指標の単位や対象範囲が異なると、生産性の差を正しく解釈できません。同じ定義で比べることが必要です。",
+    "sourcePage": 19,
+    "sourceAnchor": "productivity measures"
+  },
+  {
+    "id": "pdf-ch2-q24",
+    "chapter": 2,
+    "number": 24,
+    "topic": "Quality and productivity",
+    "question": "How can reducing defects improve productivity?",
+    "answer": "More usable output is obtained from the same resources",
+    "distractors": [
+      "Every defect automatically raises usable output",
+      "Quality has no relationship to resource use",
+      "Defects reduce all input costs to zero"
+    ],
+    "explanation": "不良が減ると同じ投入から得られる良品が増え、手直しや廃棄も減ります。生産性を良品ベースで考えることが重要です。",
+    "sourcePage": 23,
+    "sourceAnchor": "quality"
+  },
+  {
+    "id": "pdf-ch2-q25",
+    "chapter": 2,
+    "number": 25,
+    "topic": "Technology",
+    "question": "Why might automation fail to improve productivity as expected?",
+    "answer": "It may be poorly matched to the process or implemented badly",
+    "distractors": [
+      "Any new technology guarantees higher productivity",
+      "Automation removes the need for training",
+      "More capital always guarantees more usable output"
+    ],
+    "explanation": "設備投資だけで成果が保証されるわけではありません。工程への適合、導入方法、教育などが効果を左右します。",
+    "sourcePage": 23,
+    "sourceAnchor": "technology"
+  },
+  {
+    "id": "pdf-ch2-q26",
+    "chapter": 2,
+    "number": 26,
+    "topic": "Workforce skills",
+    "question": "Which action can support productivity improvement?",
+    "answer": "Improving employee training and work methods",
+    "distractors": [
+      "Increasing rework deliberately",
+      "Ignoring equipment maintenance",
+      "Adding unnecessary processing steps"
+    ],
+    "explanation": "技能向上や作業方法の改善は資源を有効に使うための手段です。不良や余計な工程を増やすことは通常改善になりません。",
+    "sourcePage": 23,
+    "sourceAnchor": "training"
+  },
+  {
+    "id": "pdf-ch2-q27",
+    "chapter": 2,
+    "number": 27,
+    "topic": "Productivity and living standards",
+    "question": "Why is productivity important beyond a single firm?",
+    "answer": "It contributes to economic performance and living standards",
+    "distractors": [
+      "It matters only to the accounting department",
+      "It has no relationship to national output",
+      "It measures population growth only"
+    ],
+    "explanation": "生産性は企業の競争力だけでなく、経済全体が資源からどれだけ価値を生み出せるかや生活水準にも関係します。",
+    "sourcePage": 21,
+    "sourceAnchor": "standard of living"
+  },
+  {
+    "id": "pdf-ch2-q28",
+    "chapter": 2,
+    "number": 28,
+    "topic": "Bottlenecks and productivity",
+    "question": "Why should an improvement effort pay attention to bottlenecks?",
+    "answer": "A bottleneck can limit the output of the whole process",
+    "distractors": [
+      "The fastest operation always limits total output",
+      "Only non-bottleneck resources affect system output",
+      "Improving any isolated step always raises system output equally"
+    ],
+    "explanation": "全体の産出は制約となる工程の影響を受けます。工程の一部だけを速くしても全体が改善するとは限りません。",
+    "sourcePage": 18,
+    "sourceAnchor": "bottleneck"
+  },
+  {
+    "id": "pdf-ch2-q29",
+    "chapter": 2,
+    "number": 29,
+    "topic": "Strategy fit",
+    "question": "A firm competes on customization. Which operations capability best supports this strategy?",
+    "answer": "Flexibility in product mix and processes",
+    "distractors": [
+      "Inability to change any product specification",
+      "Refusal to accept customer information",
+      "A single rigid specification for every order"
+    ],
+    "explanation": "個別対応を競争軸にするなら、品種や工程を変更できる柔軟性が必要です。競争軸と作業能力を一致させます。",
+    "sourcePage": 7,
+    "sourceAnchor": "strategy"
+  },
+  {
+    "id": "pdf-ch2-q30",
+    "chapter": 2,
+    "number": 30,
+    "topic": "Strategy review",
+    "question": "Why should a strategy be monitored after implementation?",
+    "answer": "Results and environmental changes may require adjustments",
+    "distractors": [
+      "A strategy cannot be changed once written",
+      "Implementation removes all uncertainty",
+      "Monitoring matters only before a strategy exists"
+    ],
+    "explanation": "実行後も成果や外部環境の変化を確認し、必要に応じて見直します。戦略は策定しただけで自動的に実現するものではありません。",
+    "sourcePage": 10,
+    "sourceAnchor": "strategy"
+  },
+  {
+    "id": "pdf-ch3-q1",
+    "chapter": 3,
+    "number": 1,
+    "topic": "Forecast uncertainty",
+    "question": "Which statement about forecasting is generally correct?",
+    "answer": "Forecasts are subject to error and should include an assessment of uncertainty",
+    "distractors": [
+      "A good forecast must exactly equal every actual outcome",
+      "Forecasts eliminate random variation",
+      "Only long-range forecasts can be accurate"
+    ],
+    "explanation": "予測には不確実性があり、一般に誤差を伴います。適切な予測でも実績と毎回完全一致するわけではありません。",
+    "sourcePage": 5,
+    "sourceAnchor": "forecasts are"
+  },
+  {
+    "id": "pdf-ch3-q2",
+    "chapter": 3,
+    "number": 2,
+    "topic": "Forecast horizon",
+    "question": "Why are short-range forecasts generally more accurate than long-range forecasts?",
+    "answer": "There is usually less time for conditions to change",
+    "distractors": [
+      "Longer horizons eliminate uncertainty",
+      "Short-range forecasts never use data",
+      "Only annual forecasts can use quantitative methods"
+    ],
+    "explanation": "予測対象が遠くなるほど、環境変化などの不確実性が大きくなります。一般に短期予測のほうが精度を得やすいと考えます。",
+    "sourcePage": 5,
+    "sourceAnchor": "short-range"
+  },
+  {
+    "id": "pdf-ch3-q3",
+    "chapter": 3,
+    "number": 3,
+    "topic": "Aggregation",
+    "question": "Why are forecasts for groups often more accurate than forecasts for individual items?",
+    "answer": "Some item-level variations can offset one another",
+    "distractors": [
+      "Every individual item has identical demand",
+      "Aggregation removes all forecast error",
+      "Group forecasts require no information"
+    ],
+    "explanation": "集計すると個別項目の上下が相殺されることがあり、相対的に安定します。すべての誤差が消えるという意味ではありません。",
+    "sourcePage": 5,
+    "sourceAnchor": "groups"
+  },
+  {
+    "id": "pdf-ch3-q4",
+    "chapter": 3,
+    "number": 4,
+    "topic": "Good forecasts",
+    "question": "Which quality is important for a useful forecast?",
+    "answer": "It is timely, reliable, and understandable",
+    "distractors": [
+      "It is always complex regardless of purpose",
+      "It arrives after the decision must be made",
+      "It hides all assumptions"
+    ],
+    "explanation": "意思決定に間に合い、信頼性があり理解できることが必要です。複雑さそのものが良い予測の条件ではありません。",
+    "sourcePage": 6,
+    "sourceAnchor": "timely"
+  },
+  {
+    "id": "pdf-ch3-q5",
+    "chapter": 3,
+    "number": 5,
+    "topic": "Qualitative methods",
+    "question": "When is a qualitative forecasting approach particularly useful?",
+    "answer": "When historical data are limited or the situation is new",
+    "distractors": [
+      "Only when unlimited stable historical data exist",
+      "Only when all expert judgment is prohibited",
+      "When uncertainty has been completely eliminated"
+    ],
+    "explanation": "前例の少ない新製品などでは過去データだけに頼れないため、専門家の意見や調査などの定性的手法が有効です。",
+    "sourcePage": 7,
+    "sourceAnchor": "qualitative"
+  },
+  {
+    "id": "pdf-ch3-q6",
+    "chapter": 3,
+    "number": 6,
+    "topic": "Delphi",
+    "question": "What distinguishes the Delphi method?",
+    "answer": "Repeated questionnaires seek a consensus among knowledgeable participants",
+    "distractors": [
+      "One salesperson sets the forecast without review",
+      "Only the latest sales observation is repeated",
+      "A moving average is calculated with equal weights"
+    ],
+    "explanation": "Delphi法は質問とフィードバックを繰り返し、専門知識のある参加者の見解を収束させる方法です。単純な平均法とは異なります。",
+    "sourcePage": 9,
+    "sourceAnchor": "Delphi"
+  },
+  {
+    "id": "pdf-ch3-q7",
+    "chapter": 3,
+    "number": 7,
+    "topic": "Consumer surveys",
+    "question": "What is a limitation of consumer surveys for forecasting?",
+    "answer": "Stated intentions may differ from actual buying behavior",
+    "distractors": [
+      "Consumers always know their exact future purchases",
+      "Survey answers automatically equal actual demand",
+      "Surveys eliminate sampling issues"
+    ],
+    "explanation": "回答された購入意向が実際の行動と一致するとは限りません。調査結果は予測の材料であり、将来実績そのものではありません。",
+    "sourcePage": 8,
+    "sourceAnchor": "consumer surveys"
+  },
+  {
+    "id": "pdf-ch3-q8",
+    "chapter": 3,
+    "number": 8,
+    "topic": "Salesforce opinions",
+    "question": "What is a possible weakness of salesforce forecasts?",
+    "answer": "Estimates may contain optimism, pessimism, or incentive-related bias",
+    "distractors": [
+      "Salespeople can never access customer information",
+      "Their estimates always have zero error",
+      "They are identical to mathematical trend equations"
+    ],
+    "explanation": "営業担当者は顧客情報を持つ一方、楽観・悲観や目標への利害による偏りが入り得ます。情報の近さと客観性は別の論点です。",
+    "sourcePage": 8,
+    "sourceAnchor": "salesforce"
+  },
+  {
+    "id": "pdf-ch3-q9",
+    "chapter": 3,
+    "number": 9,
+    "topic": "Time series",
+    "question": "Which time-series component describes a sustained long-term movement?",
+    "answer": "Trend",
+    "distractors": [
+      "Random noise only",
+      "A one-time data-entry error",
+      "An hourly work assignment"
+    ],
+    "explanation": "トレンドは時系列の持続的な上昇・下降傾向です。短期のランダムな上下や周期的な季節性と区別します。",
+    "sourcePage": 9,
+    "sourceAnchor": "trend"
+  },
+  {
+    "id": "pdf-ch3-q10",
+    "chapter": 3,
+    "number": 10,
+    "topic": "Seasonality",
+    "question": "Which pattern is an example of seasonality?",
+    "answer": "Ice-cream demand repeatedly peaks during summer",
+    "distractors": [
+      "A completely unpredictable one-time equipment failure",
+      "A random survey coding error",
+      "An unrelated change in company ownership"
+    ],
+    "explanation": "季節性は一定の周期で繰り返すパターンです。年間だけでなく、週や日などの周期でも考えます。",
+    "sourcePage": 10,
+    "sourceAnchor": "seasonal"
+  },
+  {
+    "id": "pdf-ch3-q11",
+    "chapter": 3,
+    "number": 11,
+    "topic": "Naive forecast",
+    "question": "Under a simple naive method, what is the next-period forecast?",
+    "answer": "The most recent actual value",
+    "distractors": [
+      "The average of every possible future value",
+      "Always zero",
+      "The most recent forecast error squared"
+    ],
+    "explanation": "単純なnaive法では直近の実績を次期の予測として使います。簡単な基準予測として他手法との比較にも使えます。",
+    "sourcePage": 10,
+    "sourceAnchor": "naive forecast"
+  },
+  {
+    "id": "pdf-ch3-q12",
+    "chapter": 3,
+    "number": 12,
+    "topic": "Moving average calculation",
+    "question": "Demand in the last three periods was 40, 50, and 60. What is a three-period moving-average forecast?",
+    "answer": "50",
+    "distractors": [
+      "60",
+      "45",
+      "150"
+    ],
+    "explanation": "3期間移動平均は（40＋50＋60）÷3＝50です。合計150をそのまま予測としないことに注意します。",
+    "sourcePage": 12,
+    "sourceAnchor": "moving average"
+  },
+  {
+    "id": "pdf-ch3-q13",
+    "chapter": 3,
+    "number": 13,
+    "topic": "Moving-average responsiveness",
+    "question": "What is the usual effect of increasing the number of periods in a moving average?",
+    "answer": "More smoothing but slower response to change",
+    "distractors": [
+      "Less smoothing and a faster response in every case",
+      "Complete removal of all uncertainty",
+      "A forecast equal to the newest value only"
+    ],
+    "explanation": "期間を増やすほど変動が平均化されますが、新たな変化への反応は遅れやすくなります。平滑性と反応速度のトレードオフです。",
+    "sourcePage": 13,
+    "sourceAnchor": "number of periods"
+  },
+  {
+    "id": "pdf-ch3-q14",
+    "chapter": 3,
+    "number": 14,
+    "topic": "Weighted moving average",
+    "question": "The oldest and newest demands are 40 and 60. With weights 0.25 and 0.75, what is the forecast?",
+    "answer": "55",
+    "distractors": [
+      "45",
+      "50",
+      "100"
+    ],
+    "explanation": "40×0.25＋60×0.75＝55です。重みとデータの対応を確認し、重みの合計を1にします。",
+    "sourcePage": 14,
+    "sourceAnchor": "weighted moving average"
+  },
+  {
+    "id": "pdf-ch3-q15",
+    "chapter": 3,
+    "number": 15,
+    "topic": "Exponential smoothing",
+    "question": "Which formula updates a simple exponential-smoothing forecast?",
+    "answer": "Next forecast = current forecast + alpha x (actual - current forecast)",
+    "distractors": [
+      "Next forecast = actual + current forecast",
+      "Next forecast = alpha / actual",
+      "Next forecast = current forecast - actual squared"
+    ],
+    "explanation": "指数平滑法は以前の予測を、実績との差の一部だけ修正して更新します。係数αがどれだけ新しい実績を重視するかを決めます。",
+    "sourcePage": 15,
+    "sourceAnchor": "exponential smoothing"
+  },
+  {
+    "id": "pdf-ch3-q16",
+    "chapter": 3,
+    "number": 16,
+    "topic": "Smoothing calculation",
+    "question": "The current forecast is 100, actual demand is 120, and alpha is 0.25. What is the next forecast?",
+    "answer": "105",
+    "distractors": [
+      "115",
+      "125",
+      "95"
+    ],
+    "explanation": "100＋0.25×（120−100）＝105です。予測誤差20のうち25％を加えます。",
+    "sourcePage": 15,
+    "sourceAnchor": "exponential smoothing"
+  },
+  {
+    "id": "pdf-ch3-q17",
+    "chapter": 3,
+    "number": 17,
+    "topic": "Smoothing constant",
+    "question": "What is the effect of a larger alpha in simple exponential smoothing?",
+    "answer": "More weight on recent observations and faster response",
+    "distractors": [
+      "Less weight on recent observations",
+      "No change in responsiveness",
+      "A guarantee of zero forecast error"
+    ],
+    "explanation": "αを大きくすると新しい実績を強く反映します。その分、ランダムな変動にも敏感になり得るため、誤差を見て選びます。",
+    "sourcePage": 15,
+    "sourceAnchor": "alpha"
+  },
+  {
+    "id": "pdf-ch3-q18",
+    "chapter": 3,
+    "number": 18,
+    "topic": "Trend equation",
+    "question": "A trend equation is F(t) = 20 + 3t. What is the forecast for t = 4?",
+    "answer": "32",
+    "distractors": [
+      "23",
+      "80",
+      "12"
+    ],
+    "explanation": "式にt＝4を代入すると20＋3×4＝32です。切片20と期間ごとの増加3を区別します。",
+    "sourcePage": 17,
+    "sourceAnchor": "linear trend"
+  },
+  {
+    "id": "pdf-ch3-q19",
+    "chapter": 3,
+    "number": 19,
+    "topic": "Seasonal index",
+    "question": "What does a seasonal relative of 1.20 indicate in a multiplicative model?",
+    "answer": "Demand is 20% above the average or trend level",
+    "distractors": [
+      "Demand is 120% below the baseline",
+      "Demand is exactly 1.20 units",
+      "Demand has no seasonal effect"
+    ],
+    "explanation": "乗法モデルの季節指数1.20は基準値の1.20倍、つまり20％上を意味します。単位数量や120％増と取り違えないようにします。",
+    "sourcePage": 22,
+    "sourceAnchor": "seasonal relative"
+  },
+  {
+    "id": "pdf-ch3-q20",
+    "chapter": 3,
+    "number": 20,
+    "topic": "Seasonal forecast",
+    "question": "A baseline forecast is 200 and the seasonal relative is 0.80. What is the seasonalized forecast?",
+    "answer": "160",
+    "distractors": [
+      "250",
+      "200.8",
+      "40"
+    ],
+    "explanation": "乗法モデルでは基準予測に季節指数を掛けます。200×0.80＝160です。季節調整を除く場合の割り算と区別します。",
+    "sourcePage": 22,
+    "sourceAnchor": "seasonal relatives"
+  },
+  {
+    "id": "pdf-ch3-q21",
+    "chapter": 3,
+    "number": 21,
+    "topic": "Deseasonalizing",
+    "question": "Actual demand is 240 and its seasonal index is 1.20. What is deseasonalized demand?",
+    "answer": "200",
+    "distractors": [
+      "288",
+      "238.8",
+      "20"
+    ],
+    "explanation": "季節性を除くには実績を季節指数で割ります。240÷1.20＝200で、季節要因を除いた比較が可能になります。",
+    "sourcePage": 23,
+    "sourceAnchor": "deseasonal"
+  },
+  {
+    "id": "pdf-ch3-q22",
+    "chapter": 3,
+    "number": 22,
+    "topic": "Associative forecasts",
+    "question": "What is an associative forecasting method based on?",
+    "answer": "Relationships between the variable to forecast and other variables",
+    "distractors": [
+      "Only repeating the last observation",
+      "Ignoring all explanatory information",
+      "Choosing a forecast randomly"
+    ],
+    "explanation": "関連型・因果型の予測では、予測対象と説明変数の関係を利用します。単に時間順の値を平均する方法とは異なります。",
+    "sourcePage": 26,
+    "sourceAnchor": "regression"
+  },
+  {
+    "id": "pdf-ch3-q23",
+    "chapter": 3,
+    "number": 23,
+    "topic": "Correlation",
+    "question": "What does a correlation coefficient near -1 indicate?",
+    "answer": "A strong negative linear relationship",
+    "distractors": [
+      "No linear relationship",
+      "A strong positive linear relationship",
+      "Proof that one variable causes the other"
+    ],
+    "explanation": "−1に近い相関は強い負の線形関係を示します。ただし相関だけでは因果関係は証明できません。",
+    "sourcePage": 30,
+    "sourceAnchor": "correlation"
+  },
+  {
+    "id": "pdf-ch3-q24",
+    "chapter": 3,
+    "number": 24,
+    "topic": "Forecast error",
+    "question": "Using error = actual - forecast, what is the error when actual demand is 90 and the forecast is 100?",
+    "answer": "-10",
+    "distractors": [
+      "10",
+      "190",
+      "0.9"
+    ],
+    "explanation": "教材の定義である実績−予測を使うと90−100＝−10です。この場合は予測が実績を上回っています。",
+    "sourcePage": 33,
+    "sourceAnchor": "forecast error"
+  },
+  {
+    "id": "pdf-ch3-q25",
+    "chapter": 3,
+    "number": 25,
+    "topic": "MAD",
+    "question": "Forecast errors are -2, 4, and -6. What is MAD?",
+    "answer": "4",
+    "distractors": [
+      "2",
+      "12",
+      "8"
+    ],
+    "explanation": "MADは絶対誤差の平均です。（2＋4＋6）÷3＝4となり、符号の打ち消しを防ぎます。",
+    "sourcePage": 33,
+    "sourceAnchor": "mean absolute deviation"
+  },
+  {
+    "id": "pdf-ch3-q26",
+    "chapter": 3,
+    "number": 26,
+    "topic": "MSE",
+    "question": "Forecast errors are 2 and -4. Using this chapter's MSE formula with denominator n - 1, what is MSE?",
+    "answer": "20",
+    "distractors": [
+      "3",
+      "6",
+      "10"
+    ],
+    "explanation": "このPDFの式（3-16）は二乗誤差の合計をn−1で割ります。（4＋16）÷（2−1）＝20です。一般にnで割る定義もありますが、この問題はPDFの定義を明記して区別しています。",
+    "sourcePage": 45,
+    "sourceAnchor": "mean squared error"
+  },
+  {
+    "id": "pdf-ch3-q27",
+    "chapter": 3,
+    "number": 27,
+    "topic": "MAPE",
+    "question": "Which measure expresses forecast error as an average absolute percentage?",
+    "answer": "MAPE",
+    "distractors": [
+      "Total inventory",
+      "Mean signed error without scaling",
+      "Correlation alone"
+    ],
+    "explanation": "MAPEは絶対百分率誤差の平均です。実績が0などの場合は比率が定義できないため、適用条件に注意が必要です。",
+    "sourcePage": 33,
+    "sourceAnchor": "MAPE"
+  },
+  {
+    "id": "pdf-ch3-q28",
+    "chapter": 3,
+    "number": 28,
+    "topic": "Forecast bias",
+    "question": "What can a consistently positive cumulative error suggest when error = actual - forecast?",
+    "answer": "The forecasts tend to be too low",
+    "distractors": [
+      "The forecasts tend to be too high",
+      "Every individual error is zero",
+      "Actual demand has stopped changing"
+    ],
+    "explanation": "実績−予測が累積して正になるなら、予測が実績より低い傾向を疑います。単発の誤差と持続的な偏りを区別します。",
+    "sourcePage": 36,
+    "sourceAnchor": "tracking signal"
+  },
+  {
+    "id": "pdf-ch3-q29",
+    "chapter": 3,
+    "number": 29,
+    "topic": "Tracking signal",
+    "question": "Cumulative forecast error is 20 and MAD is 5. What is the tracking signal?",
+    "answer": "4",
+    "distractors": [
+      "0.25",
+      "25",
+      "100"
+    ],
+    "explanation": "トラッキングシグナルは累積予測誤差÷MADです。20÷5＝4となり、偏りを監視するために使います。",
+    "sourcePage": 36,
+    "sourceAnchor": "tracking signal"
+  },
+  {
+    "id": "pdf-ch3-q30",
+    "chapter": 3,
+    "number": 30,
+    "topic": "Forecast monitoring",
+    "question": "Why are control limits used with forecast errors?",
+    "answer": "To detect errors that may signal a change or a problem with the method",
+    "distractors": [
+      "To guarantee that every forecast is exact",
+      "To prevent managers from updating a model",
+      "To replace actual demand with forecast values"
+    ],
+    "explanation": "管理限界は誤差が通常範囲から外れたかを監視します。異常があれば環境変化や予測方法の見直しを検討します。",
+    "sourcePage": 35,
+    "sourceAnchor": "control limits"
+  },
+  {
+    "id": "pdf-ch4-q1",
+    "chapter": 4,
+    "number": 1,
+    "topic": "Design strategy",
+    "question": "Why is product and service design strategically important?",
+    "answer": "It influences customer value, costs, quality, and competitiveness",
+    "distractors": [
+      "It affects appearance only",
+      "It has no effect on operations",
+      "It replaces the need to understand customers"
+    ],
+    "explanation": "設計は顧客価値だけでなく費用・品質・工程などに影響します。見た目だけを決める作業ではありません。",
+    "sourcePage": 3,
+    "sourceAnchor": "product and service design"
+  },
+  {
+    "id": "pdf-ch4-q2",
+    "chapter": 4,
+    "number": 2,
+    "topic": "Redesign",
+    "question": "Which situation can justify product redesign?",
+    "answer": "Changing customer needs or new regulations",
+    "distractors": [
+      "The permanent absence of competition",
+      "A rule that designs must never change",
+      "A requirement to ignore new technology"
+    ],
+    "explanation": "顧客ニーズ、法規制、技術や競争環境の変化は再設計の理由になります。既存仕様を維持するだけでは適応できない場合があります。",
+    "sourcePage": 3,
+    "sourceAnchor": "redesign"
+  },
+  {
+    "id": "pdf-ch4-q3",
+    "chapter": 4,
+    "number": 3,
+    "topic": "Voice of the customer",
+    "question": "What does quality function deployment translate?",
+    "answer": "Customer requirements into technical and design specifications",
+    "distractors": [
+      "Accounting records into tax rates",
+      "Factory addresses into shipping labels",
+      "Past salaries into future selling prices"
+    ],
+    "explanation": "QFDは顧客の声を技術仕様や設計要件に体系的に結び付けます。顧客の言葉をそのまま仕様とみなすのではなく具体化します。",
+    "sourcePage": 21,
+    "sourceAnchor": "quality function deployment"
+  },
+  {
+    "id": "pdf-ch4-q4",
+    "chapter": 4,
+    "number": 4,
+    "topic": "Research",
+    "question": "How does basic research differ from applied research?",
+    "answer": "Basic research seeks knowledge; applied research targets practical uses",
+    "distractors": [
+      "Basic research targets only immediate commercial applications",
+      "Applied research avoids practical problems",
+      "Both mean inspecting finished goods only"
+    ],
+    "explanation": "基礎研究は知識や原理の発見、応用研究はその具体的な利用を目指します。目的の違いを整理します。",
+    "sourcePage": 5,
+    "sourceAnchor": "basic research"
+  },
+  {
+    "id": "pdf-ch4-q5",
+    "chapter": 4,
+    "number": 5,
+    "topic": "Reverse engineering",
+    "question": "What does reverse engineering involve?",
+    "answer": "Analyzing an existing product to understand its design or operation",
+    "distractors": [
+      "Forecasting demand using a moving average",
+      "Destroying all product documentation",
+      "Manufacturing without inspecting any existing design"
+    ],
+    "explanation": "リバースエンジニアリングは既存製品を分析し、仕組みや構造を理解することです。知的財産権や利用目的にも配慮が必要です。",
+    "sourcePage": 5,
+    "sourceAnchor": "reverse engineering"
+  },
+  {
+    "id": "pdf-ch4-q6",
+    "chapter": 4,
+    "number": 6,
+    "topic": "Legal considerations",
+    "question": "Which issue belongs in legal and ethical design review?",
+    "answer": "Product safety and potential liability",
+    "distractors": [
+      "Only the color preferred by the design team",
+      "Only the number of advertisements planned",
+      "Only last year's sales ranking"
+    ],
+    "explanation": "製品安全や製造物責任などは設計段階で考えるべき事項です。設計の判断は使用者への影響につながります。",
+    "sourcePage": 4,
+    "sourceAnchor": "legal"
+  },
+  {
+    "id": "pdf-ch4-q7",
+    "chapter": 4,
+    "number": 7,
+    "topic": "Life-cycle assessment",
+    "question": "What does life-cycle assessment evaluate?",
+    "answer": "Environmental impacts across the product's life cycle",
+    "distractors": [
+      "Only the sales price at launch",
+      "Only one worker's daily output",
+      "Only the advertising budget"
+    ],
+    "explanation": "LCAは資源採取から製造・使用・廃棄までの環境負荷を評価します。特定工程だけでなく全体を対象にします。",
+    "sourcePage": 9,
+    "sourceAnchor": "cradle-to-grave"
+  },
+  {
+    "id": "pdf-ch4-q8",
+    "chapter": 4,
+    "number": 8,
+    "topic": "Three Rs",
+    "question": "Which set gives the three Rs of sustainability?",
+    "answer": "Reduce, reuse, recycle",
+    "distractors": [
+      "Replace, rush, reject",
+      "Revenue, rent, return",
+      "Repair, raise prices, recruit"
+    ],
+    "explanation": "3Rは削減・再使用・再資源化です。資源利用や廃棄を抑えるための考え方として設計にも関わります。",
+    "sourcePage": 10,
+    "sourceAnchor": "reduce"
+  },
+  {
+    "id": "pdf-ch4-q9",
+    "chapter": 4,
+    "number": 9,
+    "topic": "Remanufacturing",
+    "question": "Which action is remanufacturing?",
+    "answer": "Disassembling, inspecting, and restoring used products for use again",
+    "distractors": [
+      "Selling used products without checking them",
+      "Using only newly purchased materials",
+      "Discarding all returned products immediately"
+    ],
+    "explanation": "再製造では使用済み製品を分解・検査・修復して再利用可能にします。単に未検査で再販売することではありません。",
+    "sourcePage": 10,
+    "sourceAnchor": "remanufacturing"
+  },
+  {
+    "id": "pdf-ch4-q10",
+    "chapter": 4,
+    "number": 10,
+    "topic": "Design for disassembly",
+    "question": "Why design a product for disassembly?",
+    "answer": "To make used products easier to take apart for recovery and reuse",
+    "distractors": [
+      "To make all repairs impossible",
+      "To prevent separation of materials",
+      "To increase disposal difficulty"
+    ],
+    "explanation": "分解しやすい設計は部品回収・再使用・再製造などを助けます。製造時だけでなく使用後も考慮する設計です。",
+    "sourcePage": 11,
+    "sourceAnchor": "design for disassembly"
+  },
+  {
+    "id": "pdf-ch4-q11",
+    "chapter": 4,
+    "number": 11,
+    "topic": "Product life cycle",
+    "question": "Which sequence represents common product life-cycle stages?",
+    "answer": "Introduction, growth, maturity, decline",
+    "distractors": [
+      "Decline, growth, introduction, maturity",
+      "Maturity, introduction, decline, growth",
+      "Procurement, payroll, audit, taxation"
+    ],
+    "explanation": "典型的な製品ライフサイクルは導入・成長・成熟・衰退です。段階によって需要や競争、設計上の課題が変化します。",
+    "sourcePage": 14,
+    "sourceAnchor": "maturity"
+  },
+  {
+    "id": "pdf-ch4-q12",
+    "chapter": 4,
+    "number": 12,
+    "topic": "Standardization",
+    "question": "What is a common benefit of standardization?",
+    "answer": "Lower costs and more consistent, interchangeable outputs",
+    "distractors": [
+      "Unlimited customization with no trade-offs",
+      "A unique process for every unit",
+      "Eliminating all need for quality control"
+    ],
+    "explanation": "標準化は費用低下、互換性、品質の均一化などに役立ちます。一方で選択肢や個別対応に制約が生じます。",
+    "sourcePage": 16,
+    "sourceAnchor": "standardization"
+  },
+  {
+    "id": "pdf-ch4-q13",
+    "chapter": 4,
+    "number": 13,
+    "topic": "Mass customization",
+    "question": "What does mass customization aim to combine?",
+    "answer": "Mass-production efficiency and individual customer choice",
+    "distractors": [
+      "Only handcrafted output and unlimited cost",
+      "No customer input and no standardized processes",
+      "High inventory and identical specifications only"
+    ],
+    "explanation": "大量個別化は大量生産の効率と顧客ごとの選択・個別要求への対応を両立させる考え方です。",
+    "sourcePage": 17,
+    "sourceAnchor": "mass customization"
+  },
+  {
+    "id": "pdf-ch4-q14",
+    "chapter": 4,
+    "number": 14,
+    "topic": "Delayed differentiation",
+    "question": "What is delayed differentiation?",
+    "answer": "Postponing final customization until later in the process",
+    "distractors": [
+      "Completing every customized feature before demand is known",
+      "Removing all product variety permanently",
+      "Delaying all customer service until after disposal"
+    ],
+    "explanation": "差別化の延期は共通部分を先に用意し、最終的な個別化を後段で行う考え方です。多様性と在庫・工程の効率を調整します。",
+    "sourcePage": 18,
+    "sourceAnchor": "delayed differentiation"
+  },
+  {
+    "id": "pdf-ch4-q15",
+    "chapter": 4,
+    "number": 15,
+    "topic": "Modular design",
+    "question": "What is modular design based on?",
+    "answer": "Combining standardized, relatively independent modules",
+    "distractors": [
+      "Making every part inseparable from the whole",
+      "Using no common components",
+      "Prohibiting replacement of any unit"
+    ],
+    "explanation": "モジュラー設計は独立性のある単位を組み合わせます。交換・修理や組み合わせを容易にしますが設計上の制約もあります。",
+    "sourcePage": 18,
+    "sourceAnchor": "modular design"
+  },
+  {
+    "id": "pdf-ch4-q16",
+    "chapter": 4,
+    "number": 16,
+    "topic": "Robust design",
+    "question": "What is the goal of robust design?",
+    "answer": "Stable performance despite variation in conditions",
+    "distractors": [
+      "Performance that changes greatly with small disturbances",
+      "Dependence on perfectly controlled conditions only",
+      "Eliminating every possible use condition"
+    ],
+    "explanation": "ロバスト設計では使用環境や工程条件に変動があっても性能が安定することを目指します。理想条件しか想定しない設計ではありません。",
+    "sourcePage": 20,
+    "sourceAnchor": "robust design"
+  },
+  {
+    "id": "pdf-ch4-q17",
+    "chapter": 4,
+    "number": 17,
+    "topic": "Concurrent engineering",
+    "question": "What is a key benefit of concurrent engineering?",
+    "answer": "Early cross-functional collaboration can reduce development time and rework",
+    "distractors": [
+      "Every department must wait until the previous department finishes",
+      "Manufacturing input is prohibited during design",
+      "Coordination is postponed until launch"
+    ],
+    "explanation": "並行開発では設計・製造・調達などが早期から協力します。後から判明する問題や手戻りを減らしやすくなります。",
+    "sourcePage": 26,
+    "sourceAnchor": "concurrent engineering"
+  },
+  {
+    "id": "pdf-ch4-q18",
+    "chapter": 4,
+    "number": 18,
+    "topic": "CAD",
+    "question": "How can CAD support design work?",
+    "answer": "By helping create, modify, and analyze computer-based designs",
+    "distractors": [
+      "By replacing every production employee",
+      "By guaranteeing demand forecasts are exact",
+      "By preventing design changes"
+    ],
+    "explanation": "CADは図面やモデルの作成・修正・分析などを支援します。設計者の判断を不要にしたり需要を保証したりするものではありません。",
+    "sourcePage": 27,
+    "sourceAnchor": "computer-aided design"
+  },
+  {
+    "id": "pdf-ch4-q19",
+    "chapter": 4,
+    "number": 19,
+    "topic": "Design for manufacturing",
+    "question": "What does design for manufacturing emphasize?",
+    "answer": "Ease and efficiency of production",
+    "distractors": [
+      "Advertising creativity alone",
+      "Maximum part count regardless of function",
+      "Ignoring assembly requirements"
+    ],
+    "explanation": "DFMは作りやすさを設計時に考慮します。部品数や工程、組立負荷などが品質や費用に影響します。",
+    "sourcePage": 28,
+    "sourceAnchor": "design for manufacturing"
+  },
+  {
+    "id": "pdf-ch4-q20",
+    "chapter": 4,
+    "number": 20,
+    "topic": "Value analysis",
+    "question": "What is the objective of value analysis?",
+    "answer": "Removing unnecessary costs while preserving required functions",
+    "distractors": [
+      "Reducing every function regardless of customer needs",
+      "Increasing costs to make a design appear complex",
+      "Measuring sales without examining the product"
+    ],
+    "explanation": "価値分析では必要機能を維持しつつ不要な費用を取り除きます。機能を失ってでも安くするという意味ではありません。",
+    "sourcePage": 10,
+    "sourceAnchor": "value analysis"
+  },
+  {
+    "id": "pdf-ch4-q21",
+    "chapter": 4,
+    "number": 21,
+    "topic": "Kano model",
+    "question": "In the Kano model, what can happen to an exciting feature over time?",
+    "answer": "It may become an expected basic feature",
+    "distractors": [
+      "It must remain a surprise forever",
+      "It automatically becomes illegal",
+      "It can never influence satisfaction"
+    ],
+    "explanation": "当初は驚きを生む機能でも、普及によって当然の基本要件になることがあります。顧客期待の変化を設計に反映します。",
+    "sourcePage": 24,
+    "sourceAnchor": "Kano"
+  },
+  {
+    "id": "pdf-ch4-q22",
+    "chapter": 4,
+    "number": 22,
+    "topic": "Service package",
+    "question": "What belongs in the service package?",
+    "answer": "Physical resources, accompanying goods, and the service experience",
+    "distractors": [
+      "Only the advertising slogan",
+      "Only the accounting ledger",
+      "Only the legal ownership structure"
+    ],
+    "explanation": "サービス・パッケージは設備等の物的資源や付随する財、提供される便益などを含みます。目に見える設備だけではありません。",
+    "sourcePage": 29,
+    "sourceAnchor": "service package"
+  },
+  {
+    "id": "pdf-ch4-q23",
+    "chapter": 4,
+    "number": 23,
+    "topic": "Service blueprint",
+    "question": "What is the purpose of a service blueprint?",
+    "answer": "Mapping customer and service activities to analyze delivery",
+    "distractors": [
+      "Estimating only equipment depreciation",
+      "Replacing the need to identify customer actions",
+      "Listing only raw-material prices"
+    ],
+    "explanation": "サービス・ブループリントは顧客とサービス提供側の活動を可視化し、接点や問題箇所を分析するための道具です。",
+    "sourcePage": 31,
+    "sourceAnchor": "service blueprint"
+  },
+  {
+    "id": "pdf-ch4-q24",
+    "chapter": 4,
+    "number": 24,
+    "topic": "Service design",
+    "question": "Why is customer contact important in service design?",
+    "answer": "Customer participation can affect the process and perceived quality",
+    "distractors": [
+      "Customers never influence service delivery",
+      "Every service can be fully inspected before customer contact",
+      "Customer experience is unrelated to service quality"
+    ],
+    "explanation": "サービスでは顧客が工程に参加し、体験が品質評価に影響します。内部の効率だけでなく顧客側の視点も必要です。",
+    "sourcePage": 29,
+    "sourceAnchor": "customer contact"
+  },
+  {
+    "id": "pdf-ch4-q25",
+    "chapter": 4,
+    "number": 25,
+    "topic": "Reliability",
+    "question": "What does reliability describe in product performance?",
+    "answer": "The probability of performing as intended under stated conditions",
+    "distractors": [
+      "The selling price divided by material cost",
+      "The number of design drawings",
+      "The amount of inventory stored"
+    ],
+    "explanation": "信頼性は一定条件のもとで意図した機能を果たす確率として扱います。能力や価格の指標と区別します。",
+    "sourcePage": 40,
+    "sourceAnchor": "probability"
+  },
+  {
+    "id": "pdf-ch4-q26",
+    "chapter": 4,
+    "number": 26,
+    "topic": "Series reliability",
+    "question": "Two independent components must both work. Their reliabilities are 0.90 and 0.80. What is system reliability?",
+    "answer": "0.72",
+    "distractors": [
+      "0.98",
+      "0.85",
+      "1.70"
+    ],
+    "explanation": "直列システムで両方が必要なら、独立な成功確率を掛けます。0.90×0.80＝0.72です。",
+    "sourcePage": 40,
+    "sourceAnchor": "independent"
+  },
+  {
+    "id": "pdf-ch4-q27",
+    "chapter": 4,
+    "number": 27,
+    "topic": "Redundancy",
+    "question": "Two independent components work in parallel; either one is sufficient. Their reliabilities are 0.90 and 0.80. What is system reliability?",
+    "answer": "0.98",
+    "distractors": [
+      "0.72",
+      "0.85",
+      "0.17"
+    ],
+    "explanation": "どちらかが動けばよいので、両方が故障する確率を1から引きます。1−（0.10×0.20）＝0.98です。",
+    "sourcePage": 40,
+    "sourceAnchor": "redundancy"
+  },
+  {
+    "id": "pdf-ch4-q28",
+    "chapter": 4,
+    "number": 28,
+    "topic": "Exponential reliability",
+    "question": "With an exponential failure-time model and MTBF of 100 hours, what is the probability of surviving 100 hours?",
+    "answer": "About 0.368",
+    "distractors": [
+      "About 0.632",
+      "Exactly 1.000",
+      "Exactly 0.100"
+    ],
+    "explanation": "指数分布モデルではR(t)＝eの−t／MTBF乗です。t＝MTBFならeの−1乗で約0.368となります。0.632はそれまでに故障する確率です。",
+    "sourcePage": 42,
+    "sourceAnchor": "exponential"
+  },
+  {
+    "id": "pdf-ch4-q29",
+    "chapter": 4,
+    "number": 29,
+    "topic": "Availability",
+    "question": "A system operates for a mean of 90 hours between failures and takes 10 hours to repair. What is availability?",
+    "answer": "0.90",
+    "distractors": [
+      "0.10",
+      "9.00",
+      "1.00"
+    ],
+    "explanation": "可用性は平均稼働時間÷（平均稼働時間＋平均修理時間）です。90÷（90＋10）＝0.90です。信頼性の確率と同一の式ではありません。",
+    "sourcePage": 47,
+    "sourceAnchor": "availability"
+  },
+  {
+    "id": "pdf-ch4-q30",
+    "chapter": 4,
+    "number": 30,
+    "topic": "Reliability improvement",
+    "question": "Why can adding a backup component improve system reliability?",
+    "answer": "The system may continue working when a primary component fails",
+    "distractors": [
+      "A backup makes every component individually perfect",
+      "Redundancy always reduces the number of components",
+      "All backup components must fail before the primary can operate"
+    ],
+    "explanation": "冗長化は代替部品を用意して、主部品の故障がシステム全体の停止に直結しないようにする方法です。各部品の故障確率そのものが0になるわけではありません。",
+    "sourcePage": 40,
+    "sourceAnchor": "redundancy"
+  },
+  {
+    "id": "pdf-ch5-q1",
+    "chapter": 5,
+    "number": 1,
+    "topic": "Capacity planning",
+    "question": "What is a central question in capacity planning?",
+    "answer": "How much capacity is needed and when it is needed",
+    "distractors": [
+      "Only which advertising color to use",
+      "Only the next payroll date",
+      "How to avoid all demand forecasts"
+    ],
+    "explanation": "能力計画では必要な能力の種類・量・時期を判断します。将来の需要と長期的な資源投入を結び付ける意思決定です。",
+    "sourcePage": 3,
+    "sourceAnchor": "capacity"
+  },
+  {
+    "id": "pdf-ch5-q2",
+    "chapter": 5,
+    "number": 2,
+    "topic": "Design capacity",
+    "question": "What is design capacity?",
+    "answer": "The maximum output rate under ideal conditions",
+    "distractors": [
+      "Actual output after every disruption",
+      "The quantity sold last month",
+      "Effective capacity minus all fixed costs"
+    ],
+    "explanation": "設計能力は理想条件での最大産出率です。実際の制約を考慮した有効能力や実際産出と区別します。",
+    "sourcePage": 6,
+    "sourceAnchor": "design capacity"
+  },
+  {
+    "id": "pdf-ch5-q3",
+    "chapter": 5,
+    "number": 3,
+    "topic": "Effective capacity",
+    "question": "What is effective capacity?",
+    "answer": "The output rate achievable after considering practical constraints",
+    "distractors": [
+      "An ideal maximum that ignores maintenance and product mix",
+      "Actual sales revenue",
+      "The number of advertisements purchased"
+    ],
+    "explanation": "有効能力は保守、製品構成、勤務条件など現実的な制約を反映した達成可能な能力です。",
+    "sourcePage": 6,
+    "sourceAnchor": "effective capacity"
+  },
+  {
+    "id": "pdf-ch5-q4",
+    "chapter": 5,
+    "number": 4,
+    "topic": "Utilization",
+    "question": "Actual output is 72 units and design capacity is 120 units per day. What is utilization?",
+    "answer": "60%",
+    "distractors": [
+      "72%",
+      "120%",
+      "166.7%"
+    ],
+    "explanation": "利用率は実際産出÷設計能力です。72÷120×100＝60％で、有効能力を分母にする効率とは異なります。",
+    "sourcePage": 6,
+    "sourceAnchor": "utilization"
+  },
+  {
+    "id": "pdf-ch5-q5",
+    "chapter": 5,
+    "number": 5,
+    "topic": "Efficiency",
+    "question": "Actual output is 72 units and effective capacity is 90 units per day. What is efficiency?",
+    "answer": "80%",
+    "distractors": [
+      "60%",
+      "125%",
+      "18%"
+    ],
+    "explanation": "効率は実際産出÷有効能力です。72÷90×100＝80％です。設計能力に対する利用率と混同しないでください。",
+    "sourcePage": 6,
+    "sourceAnchor": "efficiency"
+  },
+  {
+    "id": "pdf-ch5-q6",
+    "chapter": 5,
+    "number": 6,
+    "topic": "Comparing capacity ratios",
+    "question": "Can a process have high efficiency but low utilization?",
+    "answer": "Yes, if effective capacity is well below design capacity",
+    "distractors": [
+      "No, the two ratios always have the same denominator",
+      "No, actual output must equal design capacity",
+      "Yes, but only if design capacity is zero"
+    ],
+    "explanation": "有効能力が設計能力よりかなり低い場合、有効能力をよく使っていても利用率は低くなります。比率の分母を確認します。",
+    "sourcePage": 6,
+    "sourceAnchor": "efficiency"
+  },
+  {
+    "id": "pdf-ch5-q7",
+    "chapter": 5,
+    "number": 7,
+    "topic": "Capacity cushion",
+    "question": "What is a capacity cushion?",
+    "answer": "Capacity above expected demand to help handle uncertainty",
+    "distractors": [
+      "The gap between sales revenue and profit",
+      "Only finished-goods inventory",
+      "The number of product designs"
+    ],
+    "explanation": "能力余裕は予想需要を超えて持つ能力で、需要や運用の不確実性に備えます。在庫そのものを意味するわけではありません。",
+    "sourcePage": 9,
+    "sourceAnchor": "capacity cushion"
+  },
+  {
+    "id": "pdf-ch5-q8",
+    "chapter": 5,
+    "number": 8,
+    "topic": "Effective capacity factors",
+    "question": "Which change can increase effective capacity?",
+    "answer": "Reducing downtime through maintenance and training",
+    "distractors": [
+      "Increasing avoidable breakdowns",
+      "Increasing setup delays deliberately",
+      "Ignoring quality defects"
+    ],
+    "explanation": "故障や段取り、品質問題、人員技能などは有効能力に影響します。保守や教育による制約改善は能力の有効利用につながります。",
+    "sourcePage": 6,
+    "sourceAnchor": "maintenance"
+  },
+  {
+    "id": "pdf-ch5-q9",
+    "chapter": 5,
+    "number": 9,
+    "topic": "Processing requirements",
+    "question": "Annual demand requires 4,500 machine-hours. Each machine provides 2,000 hours per year. How many whole machines are required?",
+    "answer": "3",
+    "distractors": [
+      "2",
+      "2.25",
+      "4"
+    ],
+    "explanation": "必要台数は4,500÷2,000＝2.25台ですが、台数は整数なので3台必要です。四捨五入で2台にすると能力不足になります。",
+    "sourcePage": 11,
+    "sourceAnchor": "processing requirements"
+  },
+  {
+    "id": "pdf-ch5-q10",
+    "chapter": 5,
+    "number": 10,
+    "topic": "Capacity in chunks",
+    "question": "Why is adding capacity in chunks important?",
+    "answer": "Capacity may be available only in discrete units such as whole machines",
+    "distractors": [
+      "Capacity can always be increased by any tiny fraction",
+      "Demand always arrives in identical quantities",
+      "All equipment has zero fixed cost"
+    ],
+    "explanation": "能力は機械1台や教室1室などの塊で増やすことがあり、必要量と追加量が完全に一致しない場合があります。",
+    "sourcePage": 16,
+    "sourceAnchor": "chunks"
+  },
+  {
+    "id": "pdf-ch5-q11",
+    "chapter": 5,
+    "number": 11,
+    "topic": "Service capacity",
+    "question": "Why is service capacity planning especially sensitive to timing?",
+    "answer": "Unused service time usually cannot be stored for later use",
+    "distractors": [
+      "Services always have unlimited inventory",
+      "Demand is identical in every hour",
+      "Customer location never matters"
+    ],
+    "explanation": "サービス能力は必要な時間・場所で提供することが重要です。使われなかった枠を翌日に保存できないため、需要変動への対応が必要です。",
+    "sourcePage": 12,
+    "sourceAnchor": "service capacity"
+  },
+  {
+    "id": "pdf-ch5-q12",
+    "chapter": 5,
+    "number": 12,
+    "topic": "Outsourcing decisions",
+    "question": "Which factor should be considered in an in-house versus outsourcing decision?",
+    "answer": "Cost, quality, capabilities, and supply risk",
+    "distractors": [
+      "Only the supplier's logo",
+      "Only the number of advertisements",
+      "Only the age of the office building"
+    ],
+    "explanation": "内製・外注では費用に加え、品質、専門能力、安定供給などを比較します。単一の短期的な費用だけでは決められません。",
+    "sourcePage": 13,
+    "sourceAnchor": "outsource"
+  },
+  {
+    "id": "pdf-ch5-q13",
+    "chapter": 5,
+    "number": 13,
+    "topic": "Bottleneck",
+    "question": "Three sequential stages can process 40, 25, and 35 units per hour. What is maximum system throughput?",
+    "answer": "25 units per hour",
+    "distractors": [
+      "40 units per hour",
+      "100 units per hour",
+      "33.33 units per hour"
+    ],
+    "explanation": "直列工程では最も能力の小さい工程が全体を制約します。最小値25個／時がシステム能力です。",
+    "sourcePage": 15,
+    "sourceAnchor": "bottleneck"
+  },
+  {
+    "id": "pdf-ch5-q14",
+    "chapter": 5,
+    "number": 14,
+    "topic": "Improving a system",
+    "question": "Which improvement is most directly needed to raise output in a bottleneck-limited process?",
+    "answer": "Increase the bottleneck's effective capacity",
+    "distractors": [
+      "Increase only the fastest non-bottleneck stage",
+      "Buy more office furniture",
+      "Produce more work in process before the constraint"
+    ],
+    "explanation": "ボトルネックが全体を制限しているなら、その能力を改善する必要があります。他工程だけを増強しても全体産出は増えないことがあります。",
+    "sourcePage": 15,
+    "sourceAnchor": "bottleneck"
+  },
+  {
+    "id": "pdf-ch5-q15",
+    "chapter": 5,
+    "number": 15,
+    "topic": "Balanced capacity",
+    "question": "Why should capacity alternatives be evaluated as a system?",
+    "answer": "Expanding one resource can shift constraints to another resource",
+    "distractors": [
+      "Every resource works independently of all others",
+      "All departments always have identical capacity",
+      "Only the largest machine matters"
+    ],
+    "explanation": "一部の能力改善で別工程が新たな制約になる場合があります。工程間のつながりを含めて評価します。",
+    "sourcePage": 15,
+    "sourceAnchor": "balance"
+  },
+  {
+    "id": "pdf-ch5-q16",
+    "chapter": 5,
+    "number": 16,
+    "topic": "Economies of scale",
+    "question": "What are economies of scale?",
+    "answer": "Lower average unit costs as output increases over a suitable range",
+    "distractors": [
+      "Higher unit costs whenever output increases",
+      "Costs that never depend on output",
+      "A guarantee that the largest facility is always best"
+    ],
+    "explanation": "規模の経済は一定範囲で規模や産出量が増えると平均単位費用が下がることです。無限に規模を拡大すれば有利という意味ではありません。",
+    "sourcePage": 17,
+    "sourceAnchor": "economies of scale"
+  },
+  {
+    "id": "pdf-ch5-q17",
+    "chapter": 5,
+    "number": 17,
+    "topic": "Diseconomies of scale",
+    "question": "What can cause diseconomies of scale?",
+    "answer": "Coordination and management difficulties in an overly large operation",
+    "distractors": [
+      "Spreading fixed costs over more output in the beneficial range",
+      "Reducing avoidable waste",
+      "Improving process balance"
+    ],
+    "explanation": "過度な規模では調整や管理が難しくなり、平均費用が上昇することがあります。これが規模の不経済です。",
+    "sourcePage": 17,
+    "sourceAnchor": "diseconomies of scale"
+  },
+  {
+    "id": "pdf-ch5-q18",
+    "chapter": 5,
+    "number": 18,
+    "topic": "Fixed and variable costs",
+    "question": "Which cost is variable in a simple cost-volume model?",
+    "answer": "A material cost that rises with each unit produced",
+    "distractors": [
+      "A fixed annual facility lease",
+      "A fixed insurance premium",
+      "A fixed annual license fee"
+    ],
+    "explanation": "単純な費用数量モデルで変動費は数量に応じて変わる費用です。一定範囲で数量によらない固定費と区別します。",
+    "sourcePage": 20,
+    "sourceAnchor": "fixed costs"
+  },
+  {
+    "id": "pdf-ch5-q19",
+    "chapter": 5,
+    "number": 19,
+    "topic": "Break-even calculation",
+    "question": "Fixed costs are $1,000, price is $20 per unit, and variable cost is $10 per unit. What is break-even volume?",
+    "answer": "100 units",
+    "distractors": [
+      "50 units",
+      "200 units",
+      "1,000 units"
+    ],
+    "explanation": "損益分岐数量は固定費÷（単価−単位変動費）です。1,000÷（20−10）＝100個となります。",
+    "sourcePage": 20,
+    "sourceAnchor": "break-even"
+  },
+  {
+    "id": "pdf-ch5-q20",
+    "chapter": 5,
+    "number": 20,
+    "topic": "Profit calculation",
+    "question": "A firm sells 150 units at $20, with $10 variable cost per unit and $1,000 fixed costs. What is profit?",
+    "answer": "$500",
+    "distractors": [
+      "$1,500",
+      "$2,000",
+      "$3,000"
+    ],
+    "explanation": "利益は150×20−150×10−1,000＝500です。売上から変動費と固定費の両方を引きます。",
+    "sourcePage": 20,
+    "sourceAnchor": "total profit"
+  },
+  {
+    "id": "pdf-ch5-q21",
+    "chapter": 5,
+    "number": 21,
+    "topic": "Cost-volume assumptions",
+    "question": "Which assumption supports a simple linear cost-volume model?",
+    "answer": "Revenue and variable costs change linearly with volume within the relevant range",
+    "distractors": [
+      "Every capacity level has identical fixed costs across all possible ranges",
+      "The selling price must be zero",
+      "Demand must always equal maximum capacity"
+    ],
+    "explanation": "単純モデルは対象範囲で売上や変動費が数量に対して直線的に変化するなどの仮定を置きます。適用範囲を超えた判断には注意します。",
+    "sourcePage": 23,
+    "sourceAnchor": "cost–volume"
+  },
+  {
+    "id": "pdf-ch5-q22",
+    "chapter": 5,
+    "number": 22,
+    "topic": "Payback",
+    "question": "What does the payback method measure?",
+    "answer": "The time required to recover the initial investment",
+    "distractors": [
+      "The maximum possible annual output",
+      "The ratio of output to design capacity",
+      "The probability that all components work"
+    ],
+    "explanation": "回収期間法は投資額を回収するまでの時間を見る方法です。利用率や信頼性とは別の投資評価の視点です。",
+    "sourcePage": 23,
+    "sourceAnchor": "payback"
+  },
+  {
+    "id": "pdf-ch5-q23",
+    "chapter": 5,
+    "number": 23,
+    "topic": "Capacity flexibility",
+    "question": "Which design choice increases future capacity flexibility?",
+    "answer": "Providing space and modular options for later expansion",
+    "distractors": [
+      "Making expansion physically impossible",
+      "Using only one inflexible product layout",
+      "Ignoring future demand scenarios"
+    ],
+    "explanation": "増設余地やモジュール化は将来の変更をしやすくします。不確実性への対応には柔軟な選択肢を確保することが有効です。",
+    "sourcePage": 14,
+    "sourceAnchor": "flexibility"
+  },
+  {
+    "id": "pdf-ch5-q24",
+    "chapter": 5,
+    "number": 24,
+    "topic": "Decision conditions",
+    "question": "Decision making under certainty means what?",
+    "answer": "The relevant state of nature is known",
+    "distractors": [
+      "Probabilities are unknown and outcomes are hidden",
+      "Every alternative has the same payoff",
+      "Managers are prohibited from comparing outcomes"
+    ],
+    "explanation": "確実性のもとではどの自然状態が起きるかが分かっています。確率が分かるリスク下、確率も分からない不確実性下と区別します。",
+    "sourcePage": 36,
+    "sourceAnchor": "certainty"
+  },
+  {
+    "id": "pdf-ch5-q25",
+    "chapter": 5,
+    "number": 25,
+    "topic": "Maximin",
+    "question": "For alternatives with worst payoffs of 10, 25, and 15, which does the maximin rule select?",
+    "answer": "The alternative with worst payoff 25",
+    "distractors": [
+      "The alternative with worst payoff 10",
+      "The alternative with the highest possible best payoff, regardless of its minimum",
+      "No alternative can be compared"
+    ],
+    "explanation": "Maximinは各案の最悪利得を比較し、その中で最大を選びます。最悪値10・25・15なら25の案です。",
+    "sourcePage": 37,
+    "sourceAnchor": "maximin"
+  },
+  {
+    "id": "pdf-ch5-q26",
+    "chapter": 5,
+    "number": 26,
+    "topic": "Maximax",
+    "question": "What does the maximax rule choose?",
+    "answer": "The alternative with the highest possible payoff",
+    "distractors": [
+      "The alternative with the best worst-case payoff",
+      "The alternative with the smallest maximum regret",
+      "The alternative with the lowest average payoff"
+    ],
+    "explanation": "Maximaxは各案の最良利得の中から最大を選ぶ楽観的基準です。MaximinやMinimax regretとは違います。",
+    "sourcePage": 37,
+    "sourceAnchor": "maximax"
+  },
+  {
+    "id": "pdf-ch5-q27",
+    "chapter": 5,
+    "number": 27,
+    "topic": "Laplace",
+    "question": "What assumption does the Laplace criterion use?",
+    "answer": "Equal likelihood for the states of nature",
+    "distractors": [
+      "Only the worst state can occur",
+      "Only the best state can occur",
+      "All alternatives have identical payoffs"
+    ],
+    "explanation": "Laplace基準では自然状態を等確率として平均利得を比べます。実際の確率が既知という前提とは異なります。",
+    "sourcePage": 37,
+    "sourceAnchor": "Laplace"
+  },
+  {
+    "id": "pdf-ch5-q28",
+    "chapter": 5,
+    "number": 28,
+    "topic": "Minimax regret",
+    "question": "What does the minimax regret rule minimize?",
+    "answer": "The largest opportunity loss for an alternative",
+    "distractors": [
+      "The smallest payoff in every alternative",
+      "The number of alternatives considered",
+      "The expected output of the fastest machine"
+    ],
+    "explanation": "Minimax regretは状態ごとの最善を選べなかった機会損失を求め、各案の最大後悔が最小となる案を選びます。",
+    "sourcePage": 37,
+    "sourceAnchor": "minimax regret"
+  },
+  {
+    "id": "pdf-ch5-q29",
+    "chapter": 5,
+    "number": 29,
+    "topic": "Expected monetary value",
+    "question": "An alternative pays $100 with probability 0.6 and $20 with probability 0.4. What is its expected monetary value?",
+    "answer": "$68",
+    "distractors": [
+      "$60",
+      "$80",
+      "$120"
+    ],
+    "explanation": "期待金銭価値は利得の確率加重平均です。100×0.6＋20×0.4＝68となります。単純平均ではありません。",
+    "sourcePage": 39,
+    "sourceAnchor": "expected monetary value"
+  },
+  {
+    "id": "pdf-ch5-q30",
+    "chapter": 5,
+    "number": 30,
+    "topic": "Perfect information",
+    "question": "What is the expected value of perfect information?",
+    "answer": "Expected value with perfect information minus the best expected value without it",
+    "distractors": [
+      "The sum of every possible payoff",
+      "The lowest fixed cost among alternatives",
+      "Actual revenue minus actual variable cost"
+    ],
+    "explanation": "EVPIは完全情報があれば得られる期待値と、情報なしで選べる最良の期待値との差です。完全情報に支払う価値の上限として解釈します。",
+    "sourcePage": 41,
+    "sourceAnchor": "perfect information"
+  }
+]

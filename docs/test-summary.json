@@ -1,13 +1,24 @@
 {
   "date": "2026-11-01",
-  "change": "English quiz choices and answers",
+  "change": "PDF textbook quiz: 150 questions, chapter practice, mixed 50",
   "command": "PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium npm test",
   "stats": {
-    "startTime": "2026-11-01T10:37:38.834Z",
-    "duration": 42883.26,
-    "expected": 22,
+    "startTime": "2026-11-01T13:06:38.778Z",
+    "duration": 93835.156,
+    "expected": 34,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0
+  },
+  "uiFollowUp": {
+    "change": "Mobile heading wrapping and PDF region label",
+    "stats": {
+      "startTime": "2026-11-01T13:09:16.773Z",
+      "duration": 8766.598,
+      "expected": 6,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    }
   }
 }

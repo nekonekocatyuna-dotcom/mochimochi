@@ -1,0 +1,32 @@
+[
+  {
+    "chapter": 1,
+    "fileName": "作業管理　CH1.pdf",
+    "pages": 40,
+    "sha256": "19c6b3d44cd5716636c86b3dc5f8d746a4245626c2ca4a2c7fdec8437c5c82f7"
+  },
+  {
+    "chapter": 2,
+    "fileName": "作業管理　CH2.pdf",
+    "pages": 34,
+    "sha256": "59ce13273ad7cc9622ece4bc3b4a0b9396c61365af7194e664f474e5d5edb7dd"
+  },
+  {
+    "chapter": 3,
+    "fileName": "作業管理　CH3.pdf",
+    "pages": 65,
+    "sha256": "885bf8b4d28d8780d2c2b3a2f7f67b6ee411938c236ab4fca5a7416dabb0741c"
+  },
+  {
+    "chapter": 4,
+    "fileName": "作業管理　CH4.pdf",
+    "pages": 53,
+    "sha256": "116507bb02820ef48d9ca0c579b1b24d79a2cedc70d752fb779865379e5c8c7d"
+  },
+  {
+    "chapter": 5,
+    "fileName": "作業管理　CH5.pdf",
+    "pages": 55,
+    "sha256": "c0005bb13d9e9280365d48eb9669e0c6ce37ed691d5629f70676ca123734321a"
+  }
+]

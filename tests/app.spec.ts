@@ -12,7 +12,7 @@ async function quizSetup(page: Page, count = '5', scope = '1') {
 function currentQuestion(page: Page) {
   return page.locator('.quiz-original').innerText().then(original => all.find(q => q.original === original)!)
 }
-test.beforeEach(async ({ page }) => { await page.goto('/') })
+test.beforeEach(async ({ page }) => { await page.goto('/'); await page.getByRole('button',{name:'教材を読む',exact:true}).click() })
 test('all chapters show exact original, translation and all four collapsible fields', async ({ page }) => {
   for (const c of material) {
     await page.getByRole('tab').nth(c.id - 1).click()
@@ -36,10 +36,10 @@ test('learned and review persist after reload and update chapter progress', asyn
   const card=page.locator('.question-card').first()
   await card.getByRole('button', {name:'覚えた',exact:true}).click()
   await expect(page.getByRole('tab').first()).toContainText('1 / 17 問')
-  await page.reload()
+  await page.reload(); await page.getByRole('button',{name:'教材を読む',exact:true}).first().click()
   await expect(card.getByRole('button',{name:'覚えた',exact:true})).toHaveAttribute('aria-pressed','true')
   await card.getByRole('button',{name:'要復習',exact:true}).click()
-  await page.reload()
+  await page.reload(); await page.getByRole('button',{name:'教材を読む',exact:true}).first().click()
   await expect(card.getByRole('button',{name:'要復習',exact:true})).toHaveAttribute('aria-pressed','true')
   await page.getByRole('button',{name:/苦手を復習/}).click()
   await expect(page.locator('.question-card')).toHaveCount(1)
@@ -96,7 +96,7 @@ test('5-question quiz grades, explains errors, scores, stores weak items and ret
   await expect(resultEnglish.nth(1)).toHaveText(englishQuiz[firstWrong].answer)
   await page.getByRole('button',{name:'再挑戦する'}).click()
   await expect(page.locator('.quiz-original')).toBeVisible()
-  await page.reload()
+  await page.reload(); await page.getByRole('button',{name:'教材を読む',exact:true}).first().click()
   await page.getByRole('button',{name:/苦手を復習/}).click()
   await expect(page.locator('.question-card')).toHaveCount(1)
   await expect(page.locator('.question-card')).toHaveAttribute('id',firstWrong)
@@ -151,7 +151,7 @@ test('layout has no viewport overflow and all controls work at mobile width', as
 })
 test('corrupt saved progress is recovered safely', async ({page})=>{
   await page.evaluate(()=>localStorage.setItem('om-notes-progress-v1','{"ch1-q1":null,"unknown":{},"ch2-q1":{"status":"fake"}}'))
-  await page.reload()
+  await page.reload(); await page.getByRole('button',{name:'教材を読む',exact:true}).first().click()
   await expect(page.locator('.question-card')).toHaveCount(17)
   await expect(page.getByRole('tab').first()).toContainText('0 / 17 問')
 })
@@ -193,7 +193,7 @@ test('narrow 320px and 375px layouts fit the viewport', async ({page})=>{
 
 test('existing progress survives the English quiz update', async ({page})=>{
   await page.evaluate(()=>localStorage.setItem('om-notes-progress-v1',JSON.stringify({'ch1-q1':{status:'learned'},'ch3-q1':{status:'review',incorrect:true}})))
-  await page.reload()
+  await page.reload(); await page.getByRole('button',{name:'教材を読む',exact:true}).first().click()
   await expect(page.locator('.question-card').first().getByRole('button',{name:'覚えた',exact:true})).toHaveAttribute('aria-pressed','true')
   await page.locator('.question-card').first().getByRole('button',{name:'解答・解説をひらく'}).click()
   await expect(page.locator('.answer-panel section p').first()).toHaveText(material[0].questions[0].answer)
@@ -201,7 +201,7 @@ test('existing progress survives the English quiz update', async ({page})=>{
   const q=await currentQuestion(page)
   const texts=await page.locator('.option span:nth-child(2)').allTextContents()
   expect(texts).toContain(englishQuiz[q.id].answer)
-  await page.reload()
+  await page.reload(); await page.getByRole('button',{name:'教材を読む',exact:true}).first().click()
   await page.getByRole('button',{name:/苦手を復習/}).click()
   await expect(page.locator('.question-card')).toHaveCount(1)
   await expect(page.locator('.question-card')).toHaveAttribute('id','ch3-q1')
