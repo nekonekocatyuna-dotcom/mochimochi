@@ -1,5 +1,7 @@
 import { expect, test, type Page } from '@playwright/test'
 import material from '../src/data/material.json' with { type: 'json' }
+import rawEnglishQuiz from '../src/data/quiz-en.json' with { type: 'json' }
+const englishQuiz = rawEnglishQuiz as Record<string, {answer:string;distractors:string[]}>
 const all = material.flatMap(c => c.questions)
 async function quizSetup(page: Page, count = '5', scope = '1') {
   await page.getByRole('button', { name: '小テスト', exact: true }).click()
@@ -69,12 +71,14 @@ test('5-question quiz grades, explains errors, scores, stores weak items and ret
     const options=page.locator('.option')
     await expect(options).toHaveCount(4)
     const texts=await options.locator('span:nth-child(2)').allTextContents()
-    const correctIndex=texts.indexOf(q.answer)
+    const correctIndex=texts.indexOf(englishQuiz[q.id].answer)
     expect(correctIndex).toBeGreaterThanOrEqual(0)
     positions.push(correctIndex)
     if(i===0) { firstWrong=q.id; await options.nth((correctIndex+1)%4).click() }
     else await options.nth(correctIndex).click()
     await page.getByRole('button',{name:'回答を採点する'}).click()
+    await expect(page.locator('.quiz-answer')).toHaveText(englishQuiz[q.id].answer)
+    await expect(page.locator('.quiz-answer')).toHaveAttribute('lang','en')
     await expect(page.locator('.feedback')).toContainText(q.explanation)
     await expect(page.locator('.feedback')).toContainText(q.caution)
     await expect(options.nth(correctIndex)).toHaveClass(/correct/)
@@ -86,6 +90,10 @@ test('5-question quiz grades, explains errors, scores, stores weak items and ret
   await expect(page.locator('.result-list details')).toHaveCount(5)
   await page.locator('.result-list summary').first().click()
   await expect(page.locator('.result-detail').first()).toBeVisible()
+  const firstResult=page.locator('.result-detail').first()
+  const resultEnglish=firstResult.locator('[lang="en"]')
+  await expect(resultEnglish).toHaveCount(2)
+  await expect(resultEnglish.nth(1)).toHaveText(englishQuiz[firstWrong].answer)
   await page.getByRole('button',{name:'再挑戦する'}).click()
   await expect(page.locator('.quiz-original')).toBeVisible()
   await page.reload()
@@ -120,7 +128,7 @@ test('weak-only quiz contains marked questions only', async ({ page }) => {
   for(let i=0;i<2;i++) {
     const q=await currentQuestion(page);ids.push(q.id)
     const options=page.locator('.option'); const texts=await options.locator('span:nth-child(2)').allTextContents()
-    await options.nth(texts.indexOf(q.answer)).click()
+    await options.nth(texts.indexOf(englishQuiz[q.id].answer)).click()
     await page.getByRole('button',{name:'回答を採点する'}).click()
     await page.getByRole('button',{name:i===1?'結果を見る':'次の問題へ'}).click()
   }
@@ -147,7 +155,7 @@ test('corrupt saved progress is recovered safely', async ({page})=>{
   await expect(page.locator('.question-card')).toHaveCount(17)
   await expect(page.getByRole('tab').first()).toContainText('0 / 17 問')
 })
-test('all 87 quiz questions have one source answer, no duplicates and balanced correct positions', async ({page})=>{
+test('all 87 quiz questions have English choices and answers, no duplicates and balanced positions', async ({page})=>{
   test.setTimeout(180000)
   await quizSetup(page,'all','all')
   const seen=new Set<string>(),positions=[0,0,0,0]
@@ -157,10 +165,14 @@ test('all 87 quiz questions have one source answer, no duplicates and balanced c
     const options=page.locator('.option')
     const texts=await options.locator('span:nth-child(2)').allTextContents()
     expect(texts).toHaveLength(4);expect(new Set(texts).size).toBe(4)
-    expect(texts.filter(t=>t===q.answer)).toHaveLength(1)
-    const correct=texts.indexOf(q.answer);positions[correct]++
+    expect(texts.every(t => !/[\u3000-\u9fff\uff00-\uffef]/.test(t))).toBeTruthy()
+    await expect(page.locator('.options')).toHaveAttribute('lang','en')
+    expect(texts.filter(t=>t===englishQuiz[q.id].answer)).toHaveLength(1)
+    const correct=texts.indexOf(englishQuiz[q.id].answer);positions[correct]++
     await options.nth(correct).click()
     await page.getByRole('button',{name:'回答を採点する'}).click()
+    await expect(page.locator('.quiz-answer')).toHaveText(englishQuiz[q.id].answer)
+    await expect(page.locator('.quiz-answer')).toHaveAttribute('lang','en')
     await expect(page.locator('.feedback')).toContainText(q.explanation)
     await page.getByRole('button',{name:i===86?'結果を見る':'次の問題へ'}).click()
   }
@@ -177,4 +189,20 @@ test('narrow 320px and 375px layouts fit the viewport', async ({page})=>{
     expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy()
     await page.locator('.question-card').first().getByRole('button',{name:'解答・解説を閉じる'}).click()
   }
+})
+
+test('existing progress survives the English quiz update', async ({page})=>{
+  await page.evaluate(()=>localStorage.setItem('om-notes-progress-v1',JSON.stringify({'ch1-q1':{status:'learned'},'ch3-q1':{status:'review',incorrect:true}})))
+  await page.reload()
+  await expect(page.locator('.question-card').first().getByRole('button',{name:'覚えた',exact:true})).toHaveAttribute('aria-pressed','true')
+  await page.locator('.question-card').first().getByRole('button',{name:'解答・解説をひらく'}).click()
+  await expect(page.locator('.answer-panel section p').first()).toHaveText(material[0].questions[0].answer)
+  await quizSetup(page)
+  const q=await currentQuestion(page)
+  const texts=await page.locator('.option span:nth-child(2)').allTextContents()
+  expect(texts).toContain(englishQuiz[q.id].answer)
+  await page.reload()
+  await page.getByRole('button',{name:/苦手を復習/}).click()
+  await expect(page.locator('.question-card')).toHaveCount(1)
+  await expect(page.locator('.question-card')).toHaveAttribute('id','ch3-q1')
 })

@@ -1,0 +1,698 @@
+{
+  "ch1-q1": {
+    "answer": "Operations management manages the design and operation of processes that produce goods and services. A supply chain links raw-material suppliers to the final customer.",
+    "distractors": [
+      "Operations management handles sales promotion only, while a supply chain handles internal payroll only.",
+      "Both operations management and a supply chain mean only advertising finished products.",
+      "Operations management handles financing only, while a supply chain covers only in-store work procedures."
+    ]
+  },
+  "ch1-q2": {
+    "answer": "Operations, Marketing, and Finance. Marketing identifies demand, Operations provides supply, and Finance secures funds.",
+    "distractors": [
+      "Operations, Marketing, and Finance handle financing, production, and demand identification, respectively.",
+      "Operations, Marketing, and Finance work independently without exchanging information.",
+      "All three functions handle only selling; none deals with funds or supply."
+    ]
+  },
+  "ch1-q3": {
+    "answer": "The operations function transforms inputs into goods and services. Managers make decisions about capacity, processes, quality, inventory, and scheduling.",
+    "distractors": [
+      "The operations function only advertises finished products, and its managers only choose advertising media.",
+      "The operations function only raises funds, and its managers do not deal with quality or scheduling.",
+      "The operations function records inputs but does not transform them into goods or services."
+    ]
+  },
+  "ch1-q4": {
+    "answer": "Differences include tangibility, storability, customer contact, quality measurement, and simultaneous production and consumption. Similarities include managing inputs, transformation, outputs, quality, capacity, schedules, and customer satisfaction.",
+    "distractors": [
+      "Services can always be stored, while goods must always be produced and consumed simultaneously.",
+      "Only the need for quality management differs; goods production does not need it.",
+      "Goods and services do not share an input-transformation-output framework."
+    ]
+  },
+  "ch1-q5": {
+    "answer": "The Industrial Revolution brought mechanization and factories. Scientific management analyzes work scientifically. Interchangeable parts are standardized, replaceable components. Division of labor specializes work.",
+    "distractors": [
+      "Scientific management relies on intuition, interchangeable parts are unique components, and division of labor means everyone does every task.",
+      "The Industrial Revolution returned production to handwork, and scientific management avoids observation and measurement.",
+      "Interchangeable parts mean specialized tasks, while division of labor means using standardized replacement components."
+    ]
+  },
+  "ch1-q6": {
+    "answer": "Services support employment and daily life. Manufacturing supplies tangible goods and supports other industries. Nonmanufactured goods include agricultural products and minerals.",
+    "distractors": [
+      "Only services support daily life; manufacturing and agricultural goods have no connection to other industries.",
+      "Nonmanufactured goods include only cars and appliances assembled in factories.",
+      "Only manufacturing creates employment; services are not part of economic activity."
+    ]
+  },
+  "ch1-q7": {
+    "answer": "A model is a simplified representation of reality. Physical, schematic, and mathematical models support analysis and decision-making.",
+    "distractors": [
+      "A model must reproduce every detail of reality without simplification to be useful.",
+      "Models are physical objects only; diagrams and equations are not models.",
+      "Models avoid simplifying reality and are not used for decision-making."
+    ]
+  },
+  "ch1-q8": {
+    "answer": "More customization requires greater process flexibility and skills, and changes how easily processes can be standardized or automated.",
+    "distractors": [
+      "The degree of customization does not affect required skills or process flexibility.",
+      "More unique specifications always make automation with a single uniform process easier.",
+      "Customization affects only advertising and should not be considered in process planning."
+    ]
+  },
+  "ch1-q9": {
+    "answer": "Consider freedom versus cost for a car or public transport; immediate use versus future performance for buying a computer now or waiting; price versus reliability for new or used cars; initiative versus risk of error for speaking up; and reach, cost, and target customers for websites or newspaper ads.",
+    "distractors": [
+      "Every alternative has identical costs and benefits, so no sacrifice is involved.",
+      "New cars are always cheaper than used cars, and waiting to buy still permits immediate use.",
+      "Public transport always offers more freedom than a car, and newspaper advertising is best for every customer group."
+    ]
+  },
+  "ch1-q10": {
+    "answer": "Craft production uses low volumes, high skills, and customization. Mass production uses high volumes, standardization, and low unit costs. Lean production reduces waste and improves quality and flow.",
+    "distractors": [
+      "Craft production is high-volume and standardized, mass production is low-volume and customized, and lean production builds inventory.",
+      "Craft, mass, and lean production all use identical volumes and skill levels.",
+      "Lean production increases waste instead of improving quality, while mass production handcrafts every item to a unique design."
+    ]
+  },
+  "ch1-q11": {
+    "answer": "Teamwork, multiple skills, responsibility for improvement, and continual performance demands can place a heavy burden on employees.",
+    "distractors": [
+      "Lean removes all employee responsibility because employees never participate in improvement.",
+      "Lean prohibits teamwork and multiple skills and requires no skills at all.",
+      "Lean has no performance or quality expectations, so employees need not engage in their work."
+    ]
+  },
+  "ch1-q12": {
+    "answer": "Matching demand and supply prevents excess inventory and shortages. Supply chain management coordinates quality, cost, and delivery from procurement to the customer.",
+    "distractors": [
+      "Demand and supply should be set independently, and supply chain management should exclude the final customer.",
+      "Always producing more than demand eliminates both shortages and excess inventory.",
+      "Supply chain management coordinates advertising only, not costs or delivery."
+    ]
+  },
+  "ch1-q13": {
+    "answer": "The four sources are variety in goods or services, structural variation, random variation, and controllable variation.",
+    "distractors": [
+      "All variation is random; structural and controllable variation do not exist.",
+      "Variety in goods and services is unrelated to variation, which comes only from equipment failures.",
+      "Only structural variation exists, so managers need not address anything beyond seasonality."
+    ]
+  },
+  "ch1-q14": {
+    "answer": "Possible reasons include personal gain, pressure to meet targets, organizational culture, a lack of ethical standards, and underestimating consequences.",
+    "distractors": [
+      "Unethical behavior always results only from a lack of knowledge; culture and pressure have no influence.",
+      "Personal gain and pressure to meet targets do not affect ethical judgment.",
+      "Underestimating consequences always guarantees ethical behavior."
+    ]
+  },
+  "ch1-q15": {
+    "answer": "Value added is created by transforming inputs into goods or services that are more valuable to customers.",
+    "distractors": [
+      "Value added arises simply from increasing input costs and is unrelated to customer value.",
+      "Value added refers only to the value lost when finished products are discarded without processing.",
+      "Value added means the total amount a company has borrowed."
+    ]
+  },
+  "ch1-q16": {
+    "answer": "Outsourcing can provide specialist capabilities and reduce costs, but can make quality and delivery harder to control, affect employment, and create supply risks.",
+    "distractors": [
+      "Outsourcing eliminates all quality, delivery, and supply risks.",
+      "Outsourcing never provides specialist capabilities and always increases costs.",
+      "Outsourcing affects advertising only and has no effect on employment or supply."
+    ]
+  },
+  "ch1-q17": {
+    "answer": "Sustainability means using resources without damaging the ecosystems that support future generations. It concerns design, procurement, disposal, and other activities.",
+    "distractors": [
+      "Sustainability means maximizing current-period profit without considering resources for future generations.",
+      "Sustainability concerns disposal only and has no connection to design or procurement.",
+      "Sustainability means increasing resource consumption without limits."
+    ]
+  },
+  "ch2-q1": {
+    "answer": "Import restrictions may protect domestic industries and jobs, but can raise prices, reduce choice, and provoke retaliation.",
+    "distractors": [
+      "Import restrictions always lower prices, increase choice, and cause no retaliation.",
+      "Import restrictions have no effect on domestic industries or employment.",
+      "Higher tariffs always benefit consumers and trading partners without any drawbacks."
+    ]
+  },
+  "ch2-q2": {
+    "answer": "Organizations compete through price, quality, differentiation, flexibility, delivery speed, service, location, and similar factors.",
+    "distractors": [
+      "Organizations compete only through price; quality and delivery are not competitive factors.",
+      "Quality, service, and location do not affect competition; advertising volume alone matters.",
+      "Organizations must avoid flexibility and differentiation when competing."
+    ]
+  },
+  "ch2-q3": {
+    "answer": "Order qualifiers are minimum requirements for consideration; order winners are the factors that actually determine the choice.",
+    "distractors": [
+      "Order qualifiers determine the final purchase, while order winners are the minimum requirements for consideration.",
+      "Order qualifiers and order winners have the same meaning and need not be distinguished.",
+      "Order qualifiers measure post-purchase satisfaction, while order winners mean accounting profit only."
+    ]
+  },
+  "ch2-q4": {
+    "answer": "For example, convenience stores compete on location and convenience, while discount stores compete on low prices and product assortment.",
+    "distractors": [
+      "Convenience stores do not use location or convenience, and discount stores do not use prices to compete.",
+      "Since stores have the same customers, they must all use exactly one competitive approach.",
+      "All stores compete through high prices alone."
+    ]
+  },
+  "ch2-q5": {
+    "answer": "The Balanced Scorecard evaluates strategy from perspectives such as finance, customers, internal processes, and learning and growth.",
+    "distractors": [
+      "The Balanced Scorecard evaluates financial profit only and excludes customers and learning.",
+      "The Balanced Scorecard is only a daily count of inventory.",
+      "The Balanced Scorecard evaluates employee working hours only."
+    ]
+  },
+  "ch2-q6": {
+    "answer": "Strategy sets the long-term direction; tactics are specific actions used to implement it.",
+    "distractors": [
+      "Strategy consists of daily tasks, while tactics set the long-term direction.",
+      "Strategy and tactics are unrelated, and tactics do not support strategy.",
+      "Both strategy and tactics are merely measures that record past performance."
+    ]
+  },
+  "ch2-q7": {
+    "answer": "Organization strategy sets company-wide goals; operations strategy sets the production and service policies that help achieve them.",
+    "distractors": [
+      "Organization strategy concerns only production policies, while operations strategy sets company-wide goals.",
+      "Operations strategy is independent of organization strategy and need not support company-wide goals.",
+      "Both organization strategy and operations strategy refer only to equipment repair schedules."
+    ]
+  },
+  "ch2-q8": {
+    "answer": "Time-based strategies compete by reducing development time, order-processing time, delivery time, and similar lead times.",
+    "distractors": [
+      "Time-based strategies deliberately lengthen delivery, development, and order-processing times.",
+      "Time-based strategies lower prices only and do not consider time.",
+      "Time-based strategies mean only keeping production volume constant regardless of time."
+    ]
+  },
+  "ch2-q9": {
+    "answer": "Productivity is output divided by input. It supports comparisons over time and across departments and affects competitiveness. Operations is mainly responsible; efficiency describes how little resource use is wasted.",
+    "distractors": [
+      "Productivity is input divided by output, so increasing inputs with unchanged output improves productivity.",
+      "Productivity measures total sales only, without considering inputs or departmental comparisons.",
+      "Productivity and efficiency are always identical, and neither concerns resource inputs."
+    ]
+  },
+  "ch2-q10": {
+    "answer": "Technology, skills, equipment, quality, work methods, management, and materials affect productivity. Training, automation, standardization, and reducing defects can improve it.",
+    "distractors": [
+      "Only the number of workers determines productivity; technology, quality, and equipment have no effect.",
+      "Increasing defects and reducing training always improve productivity.",
+      "Standardization and better work methods have no effect on productivity."
+    ]
+  },
+  "ch2-q11": {
+    "answer": "Differences in automation, process design, quality management, standardization, training, and equipment investment may explain differences in labor productivity.",
+    "distractors": [
+      "Labor productivity differences depend only on how hard workers work, not on process design.",
+      "Automation, training, and quality management should be excluded when comparing labor productivity.",
+      "Labor productivity must be identical even when equipment investment differs."
+    ]
+  },
+  "ch2-q12": {
+    "answer": "Midsize aircraft on direct routes offer flexibility and convenience; large aircraft operating through hubs offer economies of scale in mass transport.",
+    "distractors": [
+      "Midsize direct flights always provide the greatest mass-transport economies, while large hub flights offer only route flexibility.",
+      "The two strategies have no differences in convenience or transport scale.",
+      "Large-aircraft hub operations do not require any concentration of demand."
+    ]
+  },
+  "ch2-q13": {
+    "answer": "Banks can compete through interest rates, fees, ATMs, location, opening hours, apps, online transactions, customer service, product range, and reliability.",
+    "distractors": [
+      "Banks compete only on interest rates; fees and apps do not affect customer acquisition.",
+      "Reducing reliability and customer service attracts customers at every bank.",
+      "Opening hours, location, and ATMs have no effect on customers choosing a bank."
+    ]
+  },
+  "ch2-q14": {
+    "answer": "Reducing processing variation makes processes easier to standardize, mechanize, and automate.",
+    "distractors": [
+      "Increasing processing variation always makes automation with the same procedures easier.",
+      "Standardization obstructs mechanization, so common process steps should be avoided.",
+      "Variation has no relationship to the use of technology."
+    ]
+  },
+  "ch2-q15": {
+    "answer": "The material gives FedEx and Zara as time-based examples, and Lexus and Rolex as quality-based examples.",
+    "distractors": [
+      "The material gives Lexus and Rolex as time-based examples, and FedEx and Zara as quality-based examples.",
+      "The material presents FedEx and Zara as companies that do not emphasize speed or delivery.",
+      "The material presents Lexus and Rolex as companies that do not compete on quality."
+    ]
+  },
+  "ch3-q1": {
+    "answer": "Quantitative forecasts offer objectivity, reproducibility, and large-scale data processing, but struggle with insufficient historical data, structural change, and factors that cannot be quantified.",
+    "distractors": [
+      "Quantitative forecasts are always accurate despite structural change and do not need historical data.",
+      "Quantitative forecasts lack objectivity and reproducibility and cannot process numerical data.",
+      "Quantitative forecasts always capture every factor that cannot be quantified."
+    ]
+  },
+  "ch3-q2": {
+    "answer": "Inaccurate forecasts can cause shortages, excess inventory, too few or too many staff or facilities, higher costs, and lower customer satisfaction.",
+    "distractors": [
+      "Inaccurate forecasts have no effect on inventory, staffing, or customer satisfaction.",
+      "Larger forecast errors always reduce costs and shortages.",
+      "Forecast errors affect only selling prices and cannot cause excess or insufficient capacity."
+    ]
+  },
+  "ch3-q3": {
+    "answer": "Consumer surveys may differ from actual behavior; salesforce estimates may have optimistic or pessimistic bias; executive committees may suffer from groupthink and insufficient frontline information.",
+    "distractors": [
+      "Consumer responses always match behavior, and salesforce estimates have no bias.",
+      "Executive committees never experience groupthink and always have sufficient frontline information.",
+      "Consumer surveys, salesforce estimates, and executive opinions are all free from bias."
+    ]
+  },
+  "ch3-q4": {
+    "answer": "The future is uncertain, so forecasts do not exactly match actual results. Even a good forecast retains small random errors.",
+    "distractors": [
+      "A good forecast always matches actual results exactly.",
+      "A forecast can be wrong only because of a calculation mistake; uncertainty does not exist.",
+      "Random errors can always be completely eliminated regardless of the amount of data."
+    ]
+  },
+  "ch3-q5": {
+    "answer": "Control limits monitor whether forecast errors exceed their normal range, helping detect model problems or changes.",
+    "distractors": [
+      "Control limits are set to guarantee zero forecast error.",
+      "Control limits make checking errors unnecessary by ensuring abnormalities are missed.",
+      "Control limits allow forecast values to be treated as actual sales."
+    ]
+  },
+  "ch3-q6": {
+    "answer": "Consider demand variation, the cost of errors, the required sensitivity, and tolerance for false alarms.",
+    "distractors": [
+      "Always use the narrowest possible limits and ignore the cost of false alarms.",
+      "Always use the widest possible limits and ignore sensitivity to abnormalities.",
+      "Demand variation and the cost of errors are irrelevant when setting control limits."
+    ]
+  },
+  "ch3-q7": {
+    "answer": "MAD averages absolute errors and is easy to interpret. MSE squares errors and penalizes large deviations more heavily.",
+    "distractors": [
+      "MAD averages squared errors, while MSE averages absolute errors.",
+      "Both MAD and MSE simply average signed errors without changing them.",
+      "MSE is used to penalize large deviations less heavily than MAD."
+    ]
+  },
+  "ch3-q8": {
+    "answer": "Exponential smoothing can be updated using only the latest forecast and actual value, requiring little stored data and simple calculations.",
+    "distractors": [
+      "Exponential smoothing requires storing all past observations again before every update.",
+      "Exponential smoothing ignores actual values and always repeats only the previous forecast.",
+      "Exponential smoothing always needs more stored data than a moving average."
+    ]
+  },
+  "ch3-q9": {
+    "answer": "Fewer periods make a moving average more responsive; more periods produce smoother forecasts but slower responses to change.",
+    "distractors": [
+      "More periods make a moving average more responsive, while fewer periods slow its response.",
+      "Changing the number of periods has no effect on responsiveness.",
+      "Adding more periods always reduces the smoothing effect."
+    ]
+  },
+  "ch3-q10": {
+    "answer": "A larger alpha gives more weight to the latest actual value and responds faster; a smaller alpha is smoother and more stable. Choose it considering demand variation and errors.",
+    "distractors": [
+      "A larger alpha reduces the influence of the latest actual value and slows the response.",
+      "Alpha should be chosen without considering demand variation or forecast errors.",
+      "A smaller alpha makes the forecast respond only to the latest actual value."
+    ]
+  },
+  "ch3-q11": {
+    "answer": "Collect local five-day forecasts and observed results, then compare errors in temperature, precipitation, and other measures.",
+    "distractors": [
+      "Judge forecast accuracy from its appearance without collecting actual observations.",
+      "Establish accuracy by comparing forecasts with observations from a different place and time.",
+      "Treat forecast values as actual results to verify accuracy."
+    ]
+  },
+  "ch3-q12": {
+    "answer": "A centered moving average covering one full seasonal cycle averages out seasonal ups and downs within the cycle.",
+    "distractors": [
+      "Averaging over a full seasonal cycle always amplifies seasonal ups and downs.",
+      "A centered moving average removes seasonality because it uses only one point in the cycle.",
+      "Seasonal length is irrelevant; every number of periods has exactly the same effect."
+    ]
+  },
+  "ch3-q13": {
+    "answer": "Demand is the quantity customers want; sales are the quantity actually sold.",
+    "distractors": [
+      "Demand is the quantity actually sold; sales are the quantity customers would like to buy if stock were available.",
+      "Sales and demand are always equal, even during stockouts.",
+      "Demand means production capacity, while sales mean the quality customers want."
+    ]
+  },
+  "ch3-q14": {
+    "answer": "A reactive approach forecasts demand and responds to it; a proactive approach influences demand through advertising, prices, and promotions.",
+    "distractors": [
+      "A reactive approach changes demand through advertising; a proactive approach only adjusts supply to a forecast.",
+      "Both reactive and proactive approaches observe demand without taking action.",
+      "A proactive approach cannot influence demand through prices or promotions."
+    ]
+  },
+  "ch3-q15": {
+    "answer": "Greater process flexibility makes it easier to respond to forecast errors later. Longer forecast horizons increase uncertainty.",
+    "distractors": [
+      "Greater flexibility makes forecast errors harder to address, and longer horizons reduce uncertainty.",
+      "Flexibility guarantees perfectly accurate forecasts over every horizon.",
+      "Forecast horizon, uncertainty, and process flexibility have no relationship."
+    ]
+  },
+  "ch3-q16": {
+    "answer": "Supply chain forecasting requires information sharing and coordination across firms. It can reduce inventory, shortages, and variation, but faces delays, inconsistent information, and confidentiality concerns.",
+    "distractors": [
+      "Supply chain forecasting does not require information sharing or coordination across firms.",
+      "Supply chain forecasting never faces information delays or confidentiality concerns.",
+      "Forecasting for an entire supply chain can always be completed using only one company's internal forecast."
+    ]
+  },
+  "ch3-q17": {
+    "answer": "Neither is universally superior. Quantitative methods suit abundant data; qualitative methods are useful for new products and situations with little precedent.",
+    "distractors": [
+      "Quantitative methods are always superior, and historical data are unnecessary even for new products.",
+      "Qualitative methods are always superior, and abundant numerical data have no value.",
+      "Both methods always achieve the same accuracy regardless of the situation."
+    ]
+  },
+  "ch3-q18": {
+    "answer": "Useful information includes previous-version sales, preorders, the customer base, prices, promotions, competitors, launch timing, compatibility, and reviews.",
+    "distractors": [
+      "Previous-version sales alone are sufficient; prices, competitors, and compatibility should be ignored.",
+      "Only price determines demand for a new version; preorders and the customer base are unnecessary.",
+      "Reviews, promotions, and launch timing have no relevance to demand forecasting."
+    ]
+  },
+  "ch3-q19": {
+    "answer": "Use seasonality for Mother's Day cards, surveys for a new Netflix release, Delphi for moon travel, associative or causal methods for a marmalade price increase, and averaging or naive methods for supermarket toothpaste.",
+    "distractors": [
+      "Ignore seasonality for Mother's Day cards, use only past sales of the same unreleased Netflix title, and use a simple moving average for moon travel.",
+      "Ignore the price-demand relationship for a marmalade price increase, and forecast moon travel only from abundant historical sales.",
+      "Exclude seasonality, surveys, and expert opinion for every item, and use the same simple average for all of them."
+    ]
+  },
+  "ch4-q1": {
+    "answer": "Reasons include changing customer needs, competition, technological innovation, regulation, cost or quality problems, and environmental requirements.",
+    "distractors": [
+      "Redesign concerns appearance only and is unrelated to customer needs or regulation.",
+      "Technological innovation and quality problems cannot be reasons to redesign.",
+      "Once designed, a product or service should never be redesigned even when competition changes."
+    ]
+  },
+  "ch4-q2": {
+    "answer": "Basic research seeks principles and new knowledge; applied research seeks to use knowledge to solve specific problems.",
+    "distractors": [
+      "Basic research focuses only on specific applications, while applied research focuses only on discovering principles.",
+      "Basic and applied research have identical purposes and need not be distinguished.",
+      "Neither basic nor applied research concerns knowledge or problem-solving."
+    ]
+  },
+  "ch4-q3": {
+    "answer": "CAD means computer-aided design. Designers use it for drawings, 3D models, modifications, simulations, and sharing designs.",
+    "distractors": [
+      "CAD only forecasts finished-product sales and cannot be used for drawings.",
+      "CAD means hand-drawn plans that do not use computers.",
+      "CAD only manages inventory and cannot modify or share designs."
+    ]
+  },
+  "ch4-q4": {
+    "answer": "Standardization can reduce costs, provide interchangeability, and make quality more consistent, but can reduce choice and make customization harder.",
+    "distractors": [
+      "Standardization always provides unlimited choices and reduces interchangeability.",
+      "Higher costs are a benefit of standardization, while consistent quality is a drawback.",
+      "Standardization never makes customization harder and has no drawbacks."
+    ]
+  },
+  "ch4-q5": {
+    "answer": "Modular design combines independent components or units. It simplifies replacement, repair, and combinations, but can impose design constraints.",
+    "distractors": [
+      "Modular design makes the whole product inseparable and harder to replace or repair.",
+      "Modular design uses no independent units and requires building everything from scratch each time.",
+      "Modular design has no constraints, and any components can be combined without conditions."
+    ]
+  },
+  "ch4-q6": {
+    "answer": "Design for manufacturing considers ease of production. Reducing parts, process steps, and assembly effort can improve quality and costs.",
+    "distractors": [
+      "Design for manufacturing ignores production needs and increases parts and assembly effort.",
+      "Design for manufacturing concerns advertising only, not quality or costs.",
+      "Design for manufacturing postpones manufacturability until design is complete and ignores processes."
+    ]
+  },
+  "ch4-q7": {
+    "answer": "Concurrent engineering involves early, simultaneous cooperation among design, manufacturing, procurement, and other functions. It shortens development time, reduces rework, and improves quality.",
+    "distractors": [
+      "Concurrent engineering means departments work sequentially without sharing information with the next department.",
+      "Concurrent engineering prohibits manufacturing and procurement from participating until design is finished.",
+      "Concurrent engineering reduces rework by avoiding early cooperation."
+    ]
+  },
+  "ch4-q8": {
+    "answer": "Remanufacturing disassembles, inspects, and restores used products to make them usable again.",
+    "distractors": [
+      "Remanufacturing sells used products as new without inspection.",
+      "Remanufacturing means only melting products down into raw materials.",
+      "Remanufacturing assembles new products only and never uses used products."
+    ]
+  },
+  "ch4-q9": {
+    "answer": "A life cycle runs from introduction through growth and maturity to decline. Design should consider demand, maintenance, and disposal. New uses include deodorizing, cleaning, and cooking for baking soda; repairs, fastening, and crafts for duct tape; and cooking, cleaning, and deodorizing for vinegar.",
+    "distractors": [
+      "A life cycle covers manufacturing time only, so maintenance and disposal are irrelevant.",
+      "Every product grows forever after introduction, so new uses and decline need not be considered.",
+      "Baking soda, duct tape, and vinegar have no uses beyond their original applications."
+    ]
+  },
+  "ch4-q10": {
+    "answer": "R&D produces new technologies, materials, processes, and quality improvements, making higher output possible from the same inputs.",
+    "distractors": [
+      "R&D only increases inputs and cannot improve technology, processes, or quality.",
+      "R&D concerns appearance only and has no connection to productivity.",
+      "Improving productivity requires stopping R&D and avoiding new materials and processes."
+    ]
+  },
+  "ch4-q11": {
+    "answer": "Mass customization combines the efficiency of mass production with the ability to meet individual orders.",
+    "distractors": [
+      "Mass customization supplies exactly the same specification to every customer.",
+      "Mass customization means completely abandoning the efficiency of mass production.",
+      "Mass customization rejects individual orders and sells only stocked products."
+    ]
+  },
+  "ch4-q12": {
+    "answer": "Services involve greater customer contact, and their production and consumption often occur simultaneously.",
+    "distractors": [
+      "Services have no customer contact, and production and consumption always occur at separate times.",
+      "Services are all tangible and can always be supplied from finished-goods inventory.",
+      "Service design need not consider customer participation or the time of delivery."
+    ]
+  },
+  "ch4-q13": {
+    "answer": "Robust design keeps performance stable despite variation in operating conditions or processes.",
+    "distractors": [
+      "Robust design deliberately makes performance vary greatly with the environment.",
+      "Robust design means only keeping all operating conditions permanently ideal.",
+      "Robust design ignores variation in processes."
+    ]
+  },
+  "ch4-q14": {
+    "answer": "Quality function deployment systematically translates the voice of the customer into design and technical specifications.",
+    "distractors": [
+      "QFD excludes customer input and bases specifications only on engineers' preferences.",
+      "QFD only totals finished-product sales and is not used in design.",
+      "QFD fixes specifications independently of customer requirements."
+    ]
+  },
+  "ch4-q15": {
+    "answer": "Reverse engineering analyzes existing products to understand their structure and operation. Its ethical acceptability depends on intellectual property rights and how the results are used.",
+    "distractors": [
+      "Reverse engineering is always legal and ethical regardless of how it is used.",
+      "Reverse engineering excludes analysis of existing products and means only designing from scratch.",
+      "Reverse engineering does not require considering intellectual property rights."
+    ]
+  },
+  "ch4-q16": {
+    "answer": "Value analysis removes unnecessary costs while maintaining function.",
+    "distractors": [
+      "Value analysis minimizes costs even if necessary functions are lost.",
+      "Value analysis increases unnecessary costs to raise selling prices.",
+      "Value analysis does not examine the relationship between function and cost."
+    ]
+  },
+  "ch4-q17": {
+    "answer": "Life cycle assessment evaluates environmental impacts from raw-material extraction through manufacturing, use, and disposal.",
+    "distractors": [
+      "LCA evaluates factory electricity only and excludes raw materials, use, and disposal.",
+      "LCA sets selling prices and does not concern environmental impacts.",
+      "LCA evaluates disposal only and ignores the overall product life cycle."
+    ]
+  },
+  "ch4-q18": {
+    "answer": "The three Rs are Reduce, Reuse, and Recycle.",
+    "distractors": [
+      "The three Rs mean increased production, higher prices, and mass disposal.",
+      "The three Rs mean only Reduce, Replace, and Reject, excluding reuse.",
+      "The three Rs encourage greater resource consumption and disposal."
+    ]
+  },
+  "ch4-q19": {
+    "answer": "For example, smartphone facial recognition was once a surprising feature and is now common. On-device AI is a possible future standard. Contactless payment has become common in services, while advanced personalization is another possible future standard.",
+    "distractors": [
+      "Delight features never become standard features over time.",
+      "The material says facial recognition and contactless payment do not exist today.",
+      "The material guarantees that on-device AI and advanced personalization will become standard in every industry."
+    ]
+  },
+  "ch5-q1": {
+    "answer": "Design capacity is maximum capacity under ideal conditions. Effective capacity is achievable capacity after considering actual constraints.",
+    "distractors": [
+      "Design capacity considers actual constraints, while effective capacity is the ideal maximum.",
+      "Both design and effective capacity mean the quantity actually sold.",
+      "Effective capacity ignores constraints such as breakdowns and setups."
+    ]
+  },
+  "ch5-q2": {
+    "answer": "Equipment failures, staff shortages, quality defects, and setup time can prevent full use of capacity.",
+    "distractors": [
+      "Capacity utilization always remains unchanged despite equipment failures or staff shortages.",
+      "Only selling prices prevent capacity use; quality and setups have no effect.",
+      "Quality defects and setup time always increase capacity utilization."
+    ]
+  },
+  "ch5-q3": {
+    "answer": "Long-term planning concerns major investments such as equipment and location. Short-term planning adjusts shifts, overtime, inventory, and similar factors.",
+    "distractors": [
+      "Long-term planning concerns only today's overtime; short-term planning concerns only building new factories.",
+      "Both long-term and short-term capacity planning mean changing major investments immediately.",
+      "Short-term capacity adjustments cannot use shifts or overtime."
+    ]
+  },
+  "ch5-q4": {
+    "answer": "Annual examples include heaters and ski resorts; monthly examples include seasonal-event products and month-end accounting services; weekly examples include food and weekend restaurants; daily examples include newspapers and commuter transport.",
+    "distractors": [
+      "Heaters and ski resorts have no annual seasonal patterns.",
+      "Demand for commuter transport never changes by time of day and has no daily pattern.",
+      "Goods and services have no annual, monthly, weekly, or daily demand variation."
+    ]
+  },
+  "ch5-q5": {
+    "answer": "Use cross-training, reserve equipment, modularity, room for expansion, flexible working arrangements, and outsourcing.",
+    "distractors": [
+      "Increase flexibility by restricting workers to one skill, removing expansion space, and prohibiting outsourcing.",
+      "Dedicated equipment and completely fixed work schedules make a system more flexible.",
+      "Reserve equipment and modularity have no connection to flexibility."
+    ]
+  },
+  "ch5-q6": {
+    "answer": "Expanding one process does not increase total output if another process remains the bottleneck.",
+    "distractors": [
+      "Increasing one process's capacity always increases total output regardless of other processes.",
+      "Bottlenecks have no effect on total system output.",
+      "Capacity plans become more accurate when links between departments are ignored."
+    ]
+  },
+  "ch5-q7": {
+    "answer": "Capacity is added in discrete units, such as one machine or one classroom, rather than as a continuous quantity.",
+    "distractors": [
+      "All equipment capacity can be increased continuously by any fractional amount.",
+      "Capacity in chunks means only dividing customers' demand into smaller portions.",
+      "Adding machines or classrooms in whole units has no implications for investment or unused capacity."
+    ]
+  },
+  "ch5-q8": {
+    "answer": "Changing enrollment can cause shortages or surpluses of classrooms and teachers. Responses include expansion, district adjustments, temporary classrooms, and changes in class organization.",
+    "distractors": [
+      "Changes in enrollment do not affect the required number of classrooms or teachers.",
+      "District adjustments and temporary classrooms cannot address classroom shortages.",
+      "Continuously adding classrooms always solves capacity problems regardless of enrollment."
+    ]
+  },
+  "ch5-q9": {
+    "answer": "A systems approach plans the capacity of related processes and departments together to identify bottlenecks and wider effects.",
+    "distractors": [
+      "A systems approach separates departments and optimizes each process independently.",
+      "A systems approach ignores bottlenecks and considers only selected equipment.",
+      "A systems approach does not examine effects on other departments."
+    ]
+  },
+  "ch5-q10": {
+    "answer": "Too little capacity can cause lost opportunities and congestion. Too much capacity increases equipment-cost burdens and can lower productivity.",
+    "distractors": [
+      "More capacity always produces higher productivity.",
+      "Too little capacity cannot cause congestion or lost opportunities.",
+      "Equipment costs and capacity shortages or surpluses have no connection to productivity."
+    ]
+  },
+  "ch5-q11": {
+    "answer": "A mismatch between product requirements and process capability can cause quality problems, higher costs, and late delivery.",
+    "distractors": [
+      "A mismatch between product requirements and process capability has no effect on quality, costs, or delivery.",
+      "The less a process meets product requirements, the better the quality always becomes.",
+      "Product requirements should be set only through advertising, without checking process capability."
+    ]
+  },
+  "ch5-q12": {
+    "answer": "Uncertainty in demand, technology, and costs calls for considering phased expansion, capacity cushions, and flexible alternatives.",
+    "distractors": [
+      "Under uncertainty, making the largest possible investment all at once is always optimal.",
+      "Uncertainty has no effect on capacity decisions, so demand forecasts are unnecessary.",
+      "Uncertain demand and technology are reasons to avoid flexibility and capacity cushions."
+    ]
+  },
+  "ch5-q13": {
+    "answer": "Police and fire staffing must consider emergency peaks and response times, not just average demand.",
+    "distractors": [
+      "Average demand alone always guarantees an adequate emergency response.",
+      "Police and fire planning should ignore response times and the risk of simultaneous incidents.",
+      "Peak demand exists only in routine business and never in emergency services."
+    ]
+  },
+  "ch5-q14": {
+    "answer": "Capacity has long-term effects on investment costs, revenue opportunities, customer satisfaction, and future flexibility.",
+    "distractors": [
+      "Capacity planning concerns today's shifts only and has no connection to long-term investments.",
+      "Capacity shortages and surpluses do not affect revenue opportunities or customer satisfaction.",
+      "Factory and store size can be changed instantly at no cost, making capacity decisions unimportant."
+    ]
+  },
+  "ch5-q15": {
+    "answer": "Services are hard to store and are strongly affected by demand variation, customer participation, and time and location constraints.",
+    "distractors": [
+      "Services are easy to store, so customer location and timing can be ignored.",
+      "Services have no demand variation, so their capacity planning is always easier than for goods.",
+      "Unused service appointments can always be carried forward as finished-goods inventory."
+    ]
+  },
+  "ch5-q16": {
+    "answer": "A university can use student intake; a hospital, bed count; a computer repair shop, repairs per day; and a farm, annual harvest.",
+    "distractors": [
+      "A university uses units sold; a hospital, crop yields; a repair shop, bed count; and a farm, student numbers.",
+      "Every facility must use exactly the same capacity unit without specifying a time period.",
+      "Universities and hospitals cannot use throughput or intake as capacity measures."
+    ]
+  },
+  "ch5-q17": {
+    "answer": "Quantifying capacity allows comparison with demand, expansion decisions, utilization calculations, and bottleneck identification.",
+    "distractors": [
+      "Capacity measures always equal actual sales and are not used for comparison with demand.",
+      "Quantifying capacity makes it impossible to identify bottlenecks or expansion needs.",
+      "Capacity measures serve advertising only and cannot support utilization calculations or decisions."
+    ]
+  }
+}

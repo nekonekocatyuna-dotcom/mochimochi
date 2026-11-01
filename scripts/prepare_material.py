@@ -25,6 +25,12 @@ target=root/'src/data/material.json'
 if '--check' in sys.argv:
     assert json.loads(target.read_text())==chapters,'Generated material differs from source'
     distractors=json.loads((root/'src/data/distractors.json').read_text())
+    english=json.loads((root/'src/data/quiz-en.json').read_text())
+    assert set(english)=={q['id'] for c in chapters for q in c['questions']}
+    for qid, item in english.items():
+        choices=[item['answer'],*item['distractors']]
+        assert len(choices)==len(set(choices))==4,qid
+        assert all(isinstance(x,str) and x.strip() and x.isascii() for x in choices),qid
     assert set(distractors)=={q['id'] for c in chapters for q in c['questions']}
     for c in chapters:
         for q in c['questions']:
